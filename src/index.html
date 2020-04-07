@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <html>
   <head>
     <meta charset="utf-8">
@@ -6,9 +7,133 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <header></header>
-    <main></main>
-    <footer></footer>
-    <script src="index.js" type="module"></script>
+
+    <div id="welcome">
+      <!--con este id defino la pagina de inicio-->
+      <header>
+    
+      </header><!--aqui va el banner, el mismo en todos los headers-->
+  
+      <main class="firstSlide"> 
+        <link href="https://fonts.googleapis.com/css2?family=Baloo+2&family=Roboto:ital,wght@1,900&display=swap" rel="stylesheet">
+        <br>
+     <h3 id="textFstSlide">¡Bienvenido! <br>
+        ¿Eres mayor de 18 años?</h3>
+      </script>
+       <button id="boton1" class="botones">Si</button>
+        <!--Este boton es me lleva a pantalla ingresar tarjeta de credito o enterCard-->
+        <button onclick="forbidden()" class="botones">No</button><!--este boton me lleva a pantalla forbidden-->
+        <br>
+        <br>
+        <button id="information" class="botones">About Us</button>
+        <br>
+        <br>
+        <!--este boton me lleva a la información de la aplicación-->
+        <br>
+      </main>
+      <br>
+      <footer>Copyright by Carla Díaz & Paula Trujillo. 2020. Todos los derechos reservados.</footer><!--se repite mismo footer en todas las paginas-->
+      </div>
+  
+  <div class="secondSlide">
+      <div id="enterCard"><!--este es el flujo correcto de la aplicacion, espacio para validar la tarjeta-->
+      <header><div id="banner">
+        <img src="banner.png" width="1662px" height="260px" alt="banner_image">
+        <br>
+        <br>
+      </div></header>
+      <main>
+      <h3 id="textoIngresaTarjeta">Ingresa tu numero de tarjeta sin espacios</h3>
+      <br>
+      <form>
+        <label for="cardNumber">Tarjeta de Credito:</label>
+      <input id="cardNumber" type:"text" placeholder="Ejemplo: 1234567890" required>
+      </form>
+  <br><!--aqui tenemos que ver como linkear el js para la funcion de ocultar los numeros y dejar visibles los ultimos 4-->
+      <button onclick="flow2()" class="botones"> Aceptar </button><!--este boton me lleva a formulario de contacto--><!--aqui tenemos que linkear la logica del js para la verificacion de la tarjeta-->
+      <button onclick="cancel()" class="botones"> Cancelar </button>
+      </main><!--este boton me lleva al inicio, y funiciona como boton generico para varias paginas-->
+  <footer>Copyright by Carla Díaz & Paula Trujillo. 2020. Todos los derechos reservados.</footer><!--se repite mismo footer en todas las paginas-->
+      </div>
+  
+      <div id="about"> <!--esta es la información de la aplicación y llegamos aqui a través de boton id information. -->
+      <header><div id="banner">
+        <img src="banner.png" width="1662px" height="260px" alt="banner_image">
+      </div></header>
+      <main>
+        <p id="textoAboutUs"> <span padding="00px" margin="10px"><!--ACA TENEMOS QUE DESCUBRIR COMO AÑADIR MARGEN-->
+   Somos un voto de confianza, entre la red de los <strong> Moteles de Chile</strong> y sus <strong>clientes</strong>, quienes gracias a <strong>ID TELOS</strong>, podrán vivir una experiencia acogedora y cercana en vuestras instalaciones. </span>
+  <br>
+  <br>
+  <strong>ID TELOS</strong> <em>"Servicio de verificación"</em>, permite a los establecimientos, tener una garantía de confianza, gracias a lo cuál sus clientes podrán:
+  <ul id="beneficios"><!--esta es una lista-->
+  <li> Reservar online una previa reserva a traves confirmacion de tarjeta de credito valida.</li>
+  
+  <li> Pagar por su servicio, una vez finalizado, y no al ingresar al recinto</li>
+  </ul>
+  <br>
+  Con estos simples pasos, la experiencia pasará de ser espectacular, a <strong>inolvidable</strong></p>
+  <h4>¿Quieres más información? Escríbenos a <a href= "mailto: info@idtelos.cl"> info@idtelos.cl</a></h4><!--envía correo electronico-->
+  
+  <button onclick="cancel()" class="botones">Regresar</button><!--boton me lleva a pantalla de inicio-->
+      </main>
+      <footer>Copyright by Carla Díaz & Paula Trujillo. 2020. Todos los derechos reservados.</footer><!--se repite mismo footer en todas las paginas-->
+      </div>
+    
+    <div id="forbiddenAccess"><!--esta es la parte que niega el acceso a los menores-->
+    <header><div id="banner">
+        <img src="banner.png" width="1662px" height="260px" alt="banner_image">
+      </div></header>
+    <main>
+      <p id="prohibido">NO PUEDES ACCEDER A ESTE CONTENIDO</p>
+  
+        <button onclick="cancel()" class="botones">Aceptar</button><!--este boton me lleva al inicio-->
+    </main>
+     <footer>Copyright by Carla Díaz & Paula Trujillo. 2020. Todos los derechos reservados. </footer><!--se repite mismo footer en todas las paginas-->
+    </div>
+  
+    <div id="contactForm"><!--este es el siguiente paso en el flujo correcto de la aplicacion y despliega el formulario de contacto--><!--aquí deberia aparecer el resultado de la verificacion de js-->
+  <header><div id="banner">
+        <img src="banner.png" width="1662px" height="260px" alt="banner_image">
+      </div></header>
+  <main>
+    <h2 id="validado">Tu tarjeta es válida <!--aqui tenemos que linkear el resultado de la validación cuando sea correcta, ver para cambiar, el texto, si lo hacemos con un inf, para que arroje si es valida o invalida. --></h2>
+  <h4>Por favor completa el siguiente formulario, para terminar la confirmación de tu reserva</h4>
+  <br>
+  
+  <form><!--formulario para registrar los datos-->
+  <label for = "name">Nombre:</label>
+  <input id= "name" type="text" placeholder="Ej. Juan Perez" required>
+  <br>
+  <br>
+  <label for = "rut">Rut (Sin puntos ni guion):</label>
+  <input id= "rut" type="text" placeholder="Ej. 111111111" required>
+  <br>
+  <br>
+  <label for = "reserva">NºReserva:</label>
+  <input id= "reserva" type="text" placeholder="Ej.123456" required>
+  </form>
+  <br>
+  <button onclick="flow3()" class="botones">Aceptar</button><!--este boton continua con el flujo de la aplicacion, me lleva a id reservationOK-->
+  <button onclick="cancel()" class="botones">Cancelar</button><!--este boton me lleva a menu inicio-->
+  </main>
+   <footer>Copyright by Carla Díaz & Paula Trujillo. 2020. Todos los derechos reservados. </footer><!--se repite mismo footer en todas las paginas-->
+    </div>
+  
+    <div id="finalScreen"> 
+    <header><div id="banner">
+        <img src="banner.png" width="1662px" height="260px" alt="banner_image">
+      </div></header>
+      <main>
+  <p>Tu reserva ha sido confirmada correctamente</p>
+  
+  <h5>*Para cancelaciones, contáctate directamente con el establecimiento</h5>
+  <h5>*Al momento del ingreso al recinto se solicitará el C.I ingresado en el formulario</h5>
+  
+  <button onclick="cancel()" class="botones">Aceptar</button>
+  </main>
+  <footer>Copyright by Carla Díaz & Paula Trujillo. 2020. Todos los derechos reservados. </footer><!--se repite mismo footer en todas las paginas-->
+    </div>
+    <script src="index.js" type="module"> </script> 
   </body>
 </html>
