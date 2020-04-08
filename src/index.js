@@ -85,6 +85,3 @@ function flow1(){
     accesoProhibido.style.display="none";
     institucional.style.display="none";
   }
-
-
-  
