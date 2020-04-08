@@ -1,8 +1,2 @@
-function isValid(creditCardNumber);
-let creditCardNumber =[];
-
-const validator= {
-
-};
-
+function isValid(creditCardNumber)
 export default validator;
