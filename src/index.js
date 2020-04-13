@@ -1,6 +1,3 @@
-import validator from './validator.js';
-
-console.log(validator);
 
 
 //BOTONES
@@ -62,13 +59,32 @@ function flow1(){
     let flujo2=document.getElementById("contactForm");
     flujo1.style.display="none";
     flujo2.style.display="block";
+    let cardInformation=document.getElementById("cardNumber").value;
+    if (cardInformation.length > 16 || cardInformation.length < 16 || cardInformation==="" || cardInformation === " ") {
+      alert("Ingresa una tarjeta válida");
+      flujo1.style.display="block";
+      flujo2.style.display="none";
+    } else {
+let numbersToAdd= cardInformation.split("");
+let arrNumbersCard=[];
+arrNumbersCard.push(numbersToAdd);
+  for (let i=numbersToAdd.length -1; i>=0; i--) {
+    let backwardsArrNumbersCard= [];
+    backwardsArrNumbersCard.push(numbersToAdd[i]);
+    console.log(backwardsArrNumbersCard);
+  } 
   }
-  
+} 
+
   function flow3(){
     let flujo2=document.getElementById("contactForm");
     let flujo3=document.getElementById("finalScreen");
     flujo2.style.display="none";
     flujo3.style.display="block";
+    let nombre=document.getElementById("name").value;
+    let ci=document.getElementById("rut").value;
+    let reservaFinal=document.getElementById("reserva").value;
+    console.log("Datos Usuario", nombre, ci, reservaFinal);
   }
   
   function cancel(){
@@ -86,4 +102,3 @@ function flow1(){
     institucional.style.display="none";
   }
 
-  
