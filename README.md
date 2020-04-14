@@ -1,3 +1,5 @@
+![Banner](src/banner.png)
+
 # ***ID-TELOS*** ||  *We Trust*
 :star: :star: :star: :star: :star:
 
@@ -5,24 +7,27 @@
 
 * [1. INTRODUCCIÓN](#-introduccion)
 * [2. CONOCIENDO ID-TELOS](#2-conociendo)	
-* [3. DISEÑO UX](#3-ux)	
+* [3. PROCESO CREATIVO](#3-creativo)	
+* [4. DISEÑO UX](#3-ux)	
+* [5. CONCLUSIONES Y REFLEXIONES](#3-ux)	
+* [6. AGRADECIMIENTOS](#3-ux)	
 
 ***	
 
 ## 1. INTRODUCCIÓN  :arrow_forward:
 
-***ID-TELOS*** es un una aplicacición web, cuyo fin es validar la identidad del usuario que accede a nuestra plataforma, para que así pueda acceder a servicios exclusivos en los mejores moteles de Chile, que forman parte de nuestra red. Esto se logra a través de la verificación de una tarjeta de crédito válida, y completar un formulario de datos básico. 
+***ID-TELOS*** es un una aplicación web, cuyo fin es validar la identidad del usuario que accede a nuestra plataforma, logrando así obtener servicios exclusivos en **los mejores moteles de Chile**, que forman parte de nuestra red. Esto se logra a través de la verificación de una tarjeta de crédito válida, y completando un formulario de datos básico. 
 
 ## 2. CONOCIENDO ID-TELOS	:heart:
 
-***ID-TELOS*** es una plataforma de verificación, cuyo objetivo final es cambiar el paradigma de la experiencia de asistir a un motel. 
-***ID-TELOS*** nace debido a la necesidad de nuestros clientes, de mejorar la experiencia de usuario provista a sus clientes. 
+***ID-TELOS*** es una plataforma de verificación, cuyo *objetivo final* es cambiar el paradigma de la experiencia de usuarios, al momento de ir a de un motel. 
+***ID-TELOS*** nace debido tanto a la necesidad de nuestros clientes, de mejorar la experiencia de usuario provista a sus clientes, así como de sus mismos usuarios, quienes necesitan una experiencia de usuario superior, mejorada y renovada. 
 
 No cabe duda que los productos y servicios que ofrecen nuestros moteles asociados, son de excelencia y de primera calidad, pero hacía falta algo, un paso más allá que convirtiera la experiencia de los usuarios de excelente a *Inolvidable*. 
 
 Es ahí donde entra en juego ***ID-TELOS***.
 
- Somos un garante entre el motel y su cliente, sin que este último deba dejar garantías de dinero, sino a través de la verificación de una tarjeta de crédito válida, y que esta coincida con los datos de identidad provistos por el usuario. Gracias a esto, el usuario tiene acceso a 2 servicios exclusivos, que cambiarán por completo su experiencia en un motel y a los que solo puede acceder a través de ***ID-TELOS***. 
+ Somos un garante entre el motel y su cliente, sin que este último deba dejar ninguna garantía de dinero, sino a través de la verificación de una tarjeta de crédito válida, y que esta coincida con los datos de identidad provistos por el usuario. Gracias a esto, el usuario tiene acceso a 2 servicios exclusivos, que cambiarán por completo su experiencia en un motel y a los que solo puede acceder a través de ***ID-TELOS***. 
 
  - El usuario hará pago de todos los servicios y productos que contrate y requiera, al final de su estadía, y no al momento de ingresar al hotel ni al momento de requerir algo adicional. 
 
@@ -46,46 +51,62 @@ En caso que el usuario no llegara a cancelar la reserva, se procede a hacer un b
 En caso que el usuario se llegara a retirar del establecimiento sin hacer pago de los servicios y productos solicitados, se procerá al bloqueo definitivo del usuario en nuestra plataforma. También se generará una alarma que será transmitida a moteles fuera de nuestra red de clientes. Además, se procederá a las acciones legales correspondientes. :broken_heart:
 
 
-## 3. DISEÑO UX :iphone: :ok_hand:
-
-El proceso de Diseño UX fue fundamental para el desarrollo de esta aplicación.
-A continuación vamos a detallar los diferentes pasos que fuimos dando, en el proceso de diseño de la experiencia de usuario. 
+## 3. PROCESO CREATIVO :rocket:
 
 ### :one: La Idea :bulb:
 
-***ID-TELOS*** comienza con el desafío de llevar a cabo una aplicación web, que trabajara a partir de la validación de un numero de tarjeta de crédito.
-Luego de una gran lluvia de ideas, e ires y venires, nos dimos cuenta que, si bien los moteles son lugares de alojamiento de paso, su objetivo principal es satisfacer y llevar a cabo las fantasías y deseos de sus clientes; Pero, a pesar de ofrecer productos y servicios de excelente calidad, faltaba un pequeño toque, que no solo apelara a la excelencia, sino lograra hacer sentir a sus usuarios especiales, importantes, y lograr así transformar el sentimiento de ser simples usuarios de paso, a ser el eje central de la experiencia. 
+***ID-TELOS*** comienza con el desafío de llevar a cabo una aplicación web, que trabajáse a partir de la validación de un numero de tarjeta de crédito.
+Luego de una gran lluvia de ideas, e ires y venires, nos dimos cuenta que, podíamos aplicar este mecanismo, al mundo de los moteles; si bien estos son lugares de alojamiento de paso, su objetivo principal es satisfacer y llevar a cabo las fantasías y deseos de sus clientes; Pero, a pesar de ofrecer productos y servicios de excelente calidad, faltaba un pequeño toque, que no solo apelara a la excelencia, sino lograra hacer sentir a sus usuarios especiales, importantes, y lograr así transformar el sentimiento de ser simples usuarios de paso de un excelente servicio, a ser el eje central de la experiencia. 
 
-Es así como, nace ***ID-TELOS***... Somos un voto de confianza entre nuestros clintes y sus usuarios... Un garante participativo, que busca satisfacer tanto las necesidades de nuestros clientes y también nuestros usuarios. 
+Es así como, nace ***ID-TELOS***... Somos un voto de confianza entre nuestros clintes y sus usuarios... Un garante participativo, que busca satisfacer tanto las necesidades de nuestros clientes y también de nuestros usuarios. 
 
 ### :two: Planificación :date: :pencil2: :open_file_folder:
 
-El proceso de planificación fue fundamental para poder llevar a cabo este proyecto, ya que nos permitió tener una perspectiva de cuales eran los objetivos a cumplir, versus la cantidad de tiempo que teníamos para ello, pudiendo así dividir este tiempo de manera eficiente entre las distintas etapas de la realización. 
+El proceso de planificación es vital para poder llevar a cabo cualquier proyecto. En nuestro caso, 
+nos permitió tener una perspectiva de cuales eran los objetivos a cumplir, versus la cantidad de tiempo que teníamos para ello, pudiendo así dividir este tiempo de manera eficiente entre las distintas etapas de la realización. 
 
-En primer lugar llevamos a cabo un desglose de todas las tareas que teníamos que llevar a cabo. Para esto utilizamos la plataforma Trello, donde fuimos desglosando cada tarea, según temática, así como los objetivos del proyect. 
+En primer lugar llevamos a cabo un desglose de todas las tareas que teníamos cumplir. 
+Para esto utilizamos la plataforma Trello, donde fuimos desglosando cada tarea pendiente, cada tarea realizada, las temáticas a investigar y los objetivos a cumplir.
 
-[Accede a Tareas](https://trello.com/b/lSGqxOUp/proyecto-tarjeta-credito)
+[Visita acá nuestro Trello](https://trello.com/b/lSGqxOUp/proyecto-tarjeta-credito)
 
-Luego, procedimos a calendarizar todas estas tareas, dividiendo la planificación en 2 Sprint, cada uno de una semana. Sprint 1 corresponde a "Planificación e Investigación" y Sprint 2 corresponde al "Desarrollo de la aplicación en sí". 
-Es muy importante llevar a cabo este paso, ya que va a permitir verificar de manera efectiva, si contamos con los recursos suficientes para poder llevar a cabo la aplicación, así como distribuirlos de manera eficiente. 
-También es fundamental ir diariamente checando los avances, los pendendientes e ir reorganizando las tareas en el tiempo, según sea pertinente a las necesidades del desarrollo del proyecto. 
+Luego, procedimos a calendarizar todas estas tareas, dividiendo la planificación en 2 Sprints, cada uno con una duración de una semana. Sprint 1 corresponde a "Planificación e Investigación" y Sprint 2 corresponde al "Desarrollo de la aplicación en sí". 
 
-[Accede a Calendario](https://trello.com/b/JmJqEL8U/planning-laboratoria-01)
+[Visita acá nuestro Calendario](https://trello.com/b/JmJqEL8U/planning-laboratoria-01)
+
+Es muy importante llevar a cabo este paso, ya que va a permitir verificar de manera efectiva, si contamos con los recursos suficientes para poder llevar nuestro proyecto, así como distribuirlos de manera eficiente. 
+
+También es fundamental ir diariamente revisando los avances, los pendientes e ir reorganizando las tareas en el tiempo, según sea pertinente a las necesidades del desarrollo del proyecto, ya que todos los procesos creativos y de desarrollo son dinámicos, por ende, estan sujetos a cambios, por tanto, es clave lograr identificar cuando debemos comprender estos cambios y adaptar nuestro procesos a ellos. 
 
 Ya con toda la planificación lista, procedimos a trabajar en nuestro proyecto. 
 
+
 ### :three: Investigación y Desarrollo :chart_with_upwards_trend:
 
-El proceso de investigación comenzó definiendo cuales serían los recursos que nos servirían para llevar a cabo la aplicación. 
+La primera parte del proceso de investigación consistió en definir las lineas investigativas, en las diferentes áreas a trabajar, las cuales són HTML, CSS, JavaScript. 
+Acordamos posibles caminos para resolver nuetras interrogantes en cuanto la teoría y aplicación de esta, en función de la construcción de nuestro programa. 
+Fuimos dividiendo las temáticas y tareas, y a la vez también trabajando en conjunto y compartiendo las nuevas ideas y conocimientos, para ir paso a paso avanzando en el proyecto. 
 
-Nos fuimos dividiendo las tareas, y a la vez también trabajando en conjunto, para ir paso a paso avanzando en el proyecto. 
+Con un marco teórico establecido, procedimos realizar un diagrama, para definir el flujo que tendría nuestra aplicación, y asi tener identificado el paso a paso de las tareas a realizar en el código. 
+
+Se definió los usuarios, se hizo prototipado, se hizo puebas de usuario. 
+
+COn esto llegamos auna concepcion nueva de uestra aplicacion y llevamos a cabo una ultia maqueta, la cual fue probada con usuarios. 
+
+a empezar a escribir el código de nuestro proyecto, llegando hasta donde entreguemos. 
 
 
 
 
-### :four: Nuestros Usuarios :couple: :two_women_holding_hands: :two_men_holding_hands:
+## 4. DISEÑO UX :iphone: :ok_hand:
 
-ACA FALTA DEFINIR NECESIDADES
+El proceso de Diseño UX fue una pieza clave para el desarrollo de esta aplicación.
+A continuación vamos a detallar los diferentes pasos que fuimos dando, en el proceso de diseño de la experiencia de usuario. 
+
+
+### Nuestros Usuarios :couple: :two_women_holding_hands: :two_men_holding_hands:
+
+ACA FALTA DEFINIR NECESIDADES generales. de ususario y cliente 
 COMO LAS RESOLVEMOS
 
 
@@ -154,8 +175,7 @@ Este usuario necesita:
 
 
 
-
-### :five: Prototipado :memo:
+###  Interfase y Prototipado :memo:
 
 El proceso de prototipado fue fundamental para el desarrollo de nuestro proyecto. 
 Por un lado nos sirvió para convertir en imagenes, la idea teórica de nuestro proyecto, para mejorarlo, para confirmar las necesidades de usuario, para definir el per fil de usuario. 
@@ -173,36 +193,16 @@ Segun el feedback, hicimos una maqueta final, la cual nuevamente probamos con lo
 
 ACA A
 
+La interfase fue definida en cuanto a las necesidades de nuestros usuarios. Una plataforma sencilla, rapida y discreta, que no revele a primera vista de que se trata. Evitamos las vueltas sin sentido en el programa y nos enfocamos en hacer una plataforma com un buen flow y un diseño ameno con el usuario balbablabalbala
 
 
 
+## 5. CONCLUSIONES Y REFLEXIONES
+
+## 6. AGRADECIMIENTOS
 
 
 
-
-
-
-
-
-
-Trabajando en parejas aprenderán a construir una aplicación web que interactuará	
-con lx usuarix final a través del navegador, utilizando HTML, CSS y JavaScript	
-como tecnologías.	
-
-Dicho en palabras sencillas, aprenderás a:	
-
-* Organizar tu tiempo y priorizar tareas en un entorno de	
-  **alta incertidumbre**.	
-* Entender las **necesidades del usuario** y cómo proponer una solución.	
-* Entender la importancia del proceso de prototipado durante la creación de un	
-  producto digital.	
-* Utilizar etiquetas semánticas de HTML y elementos de formulario.	
-* Mostrar elementos de formulario en la pantalla usando **HTML** y **CSS**.	
-* Utilizar diversos tipos de selectores en CSS: de elemento, de clase, de id.	
-* Utilizar el modelo de cajas de CSS (border, margin, padding).	
-* Definir reglas de estilo en CSS.	
-* Permitir al usuario interactuar con elementos del DOM y hacer que la	
-  aplicación responda cuando ocurran esos **eventos del DOM**.	
 * Manipular _**strings**_ (cadenas de texto).	
 * Usar **control de flujo** (bucles, condicionales, ...).	
 * Actualizar la pantalla con los resultados (**manipular el DOM**) a través de	
@@ -221,16 +221,16 @@ Dicho en palabras sencillas, aprenderás a:
 * **Planificación, organización y manejo del tiempo** : Organizarse de manera general, haciendo una estimación aproximada de los tiempos que se necesitarán para la realización del proyecto. Conocer las ceremonias y artefactos ágiles (sprint planning, dailys, retrospectiva, revisión de tablero en trello al menos, etc) a pesar de que no se utilicen con regularidad.	
 * **Autoaprendizaje** : Demostrar interés y adquirir nuevos conocimientos autónomamente, estudiando de manera independiente, lo que se traduce, en que cuando es necesario, la estudiante buscará aclarar conceptos y resolver dudas sobre la materia.	
 * **Presentaciones** : Utilizar ciertas estrategias para hablar en público (tono y ritmo de voz adecuado, contacto visual con el público, interacción con medios de presentación), que permitan asegurar un mediano entendimiento de la audiencia.	
-* **Adaptabilidad** : Afrontar los cambios inesperados o nuevos desafíos con una actitud positiva, aunque no necesariamente se logre accionar o adaptarse de la mejor manera a los diferentes contextos.	
+	
 * **Solución de problemas** : Trabajar en la búsqueda y en la elaboración de soluciones alternativas a problemas de mediana complejidad.	
-* **Responsabilidad** : Demostrar actitud de compromiso, reflejandolo en la entrega de trabajo a tiempo, conectándose a la hora acordada y/o avisando cuando no se pueda asistir.	
+
 * **Dar y recibir feedback** : Escuchar los comentarios y críticas de los demás de manera respetuosa, y/o comunicar a los demás las opiniones de forma constructiva.	
 * **Comunicación eficaz** : Comunicar ideas a los demás cuando es necesario, aunque no siempre se fomenten de manera proactiva estas instancias de comunicación.	
 * **Trabajo en equipo** : Trabajar con otros de forma colaborativa y en base a un objetivo común, entregando ideas para la construcción del proyecto.	
 
 ## 4. Consideraciones generales	
 
-* Este proyecto se debe resolver de manera grupal. Recuerda que cada una aprende a diferente ritmo.	
+
 * El proyecto será entregado subiendo tu código a GitHub (commit/push) y la	
   interfaz será desplegada usando GitHub pages. Si no sabes lo que es GitHub, no	
   te preocupes, lo aprenderás durante este proyecto.	
@@ -271,9 +271,6 @@ cómo tu aplicación lo soluciona.
   [Google Slides](https://www.google.com/intl/es/slides/about/), etc.)	
 Estos puntos los presentarás en el `README.md`.	
 
-### Scripts / Archivos	
-
-#### General	
 
 ##### `README.md`	
 
