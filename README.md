@@ -5,8 +5,8 @@
 
 ### INDICE
 
-* [1. INTRODUCCIÓN](#-introduccion)
-* [2. CONOCIENDO ID-TELOS](#2-conociendo)	
+* [1. INTRODUCCIÓN](#1.-INTRODUCCIÓN)
+* [2. CONOCIENDO ID-TELOS](#2.-CONOCIENDO-ID-TELOS)	
 * [3. PROCESO CREATIVO](#3-creativo)	
 * [4. DISEÑO UX](#3-ux)	
 * [5. CONCLUSIONES Y REFLEXIONES](#3-ux)	
@@ -20,7 +20,7 @@
 
 ## 2. CONOCIENDO ID-TELOS	:heart:
 
-***ID-TELOS*** es una plataforma de verificación, cuyo *objetivo final* es cambiar el paradigma de la experiencia de usuarios, al momento de ir a de un motel. 
+***ID-TELOS*** es una plataforma de verificación, cuyo _objetivo final_ es cambiar el paradigma de la experiencia de usuarios, al momento de ir a de un motel. 
 ***ID-TELOS*** nace debido tanto a la necesidad de nuestros clientes, de mejorar la experiencia de usuario provista a sus clientes, así como de sus mismos usuarios, quienes necesitan una experiencia de usuario superior, mejorada y renovada. 
 
 No cabe duda que los productos y servicios que ofrecen nuestros moteles asociados, son de excelencia y de primera calidad, pero hacía falta algo, un paso más allá que convirtiera la experiencia de los usuarios de excelente a *Inolvidable*. 
