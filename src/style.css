@@ -1,9 +1,15 @@
+/*Aquí va la fuente que se utilizará en todo el html*/
 *{
   font-family: 'Roboto', sans-serif;
   font-family: 'Baloo 2', cursive;
   text-align: center;
-  color: black;
+  color:rgb(8, 8, 8);
    }
+/*Imagen de Fondo*/
+   body{
+    background-image: url(fondo2.png);
+  }
+/* Acá va el banner con su */
   header{
    width: 100%;
    height: 170px;
@@ -13,52 +19,115 @@
     display: block;
     margin: auto;
   }
+/* Este es el slide Bienvenidos*/
   .firstSlide{
     text-align: center;
-    border: 1px solid rgb(243, 144, 144);
+    border: 1px solid rgb(24, 11, 11);
   border-radius: 9px;
-      background-color: rgba(128, 0, 122, 0.308);
-      margin: 5%;
+      background-color: rgba(31, 28, 30, 0.308);
+      margin: 6%;
   }
+/* Este es el slide Ingresa tu número de tarjeta*/
+  .secondSlide{
+    text-align: center;
+    border: 1px solid rgb(24, 11, 11);
+border-radius: 9px;
+    background-color: rgba(31, 28, 30, 0.308);
+    margin: 7.5%;
+  }
+/* Este es el slide Abaout Us */
+.slideThree{
+  text-align: center;
+  border-radius: 9px;
+    border: 1px solid rgb(24, 11, 11);
+    background-color: rgba(31, 28, 30, 0.308);
+    margin: 2%;
+}
+  .beneficios{
+    color: rgb(141, 53, 72);
+    text-decoration: double;
+  }
+  .infoId{
+    color: rgb(141, 53, 72);
+    text-decoration: double;
+  }
+  #textoAboutUs{
+    text-align: center;
+    margin: 2em;
+    border-radius: 3px;
+  }
+/* Este es el slide No puedes acceder */
+  .slideFour{
+    text-align: center;
+      border: 1px solid rgb(212, 14, 14);
+  border-radius: 9px;
+      background-color: rgba(31, 28, 30, 0.308);
+      margin: 7.5%;
+  }
+/* Este es el slide Tu tarjeta es válida*/
+  .slideFive{
+    text-align: center;
+      border: 1px solid rgb(24, 11, 11);
+  border-radius: 9px;
+      background-color: rgba(31, 28, 30, 0.308);
+      margin: 2.5%;
+  }
+  #formLabel{
+    display: inline-block;
+  }
+  .formDatos{
+  width:300px;
+	padding:16px;
+  border-radius:10px;
+  margin: 1% auto;
+  background-color:rgba(14, 13, 12, 0.308);
+  }
+  #name,#rut,#reserva,#cardNumber{
+    background-color: rgba(90, 82, 90, 0.308);
+    text-align: center;
+    border-color: rgba(51, 42, 51, 0.308);
+    border-radius: 12px;
+  }
+/*Este es el slide Tu reserva a sido confirmada*/
+.slideSix{
+  text-align: center;
+    border: 1px solid rgb(24, 11, 11);
+border-radius: 9px;
+    background-color: rgba(31, 28, 30, 0.308);
+    margin: 5%;
+}
+p6, p7{
+  font-size: large;
+  color: rgb(12, 11, 11);
+}
+
+p3{
+  font-size: x-large;
+  color: Black;
+  background-color: rgba(51, 42, 51, 0.308);
+}
+/*Aquí van los botones*/
   .botones {
-    background-color: rgba(130, 83, 112, 0.871);
+    background-color: rgba(66, 58, 62, 0.871);
     border-radius: 9px;
     cursor: pointer;
     padding:1%;
     color: rgb(247, 241, 241);
     margin: 4px 2px;
   }
-  body{
-    background-color: rgb(228, 189, 189);
-  }
+/* Este el footer fijo*/
   footer{
     color: grey;
-    opacity: 0.5;
-    background-color: black;
-    border: 1px solid rgb(243, 144, 144);
+    position: absolute;
+    background-color: rgb(8, 8, 8);
+    border: 1px solid rgb(126, 34, 34);
+    position:fixed;
+   left:0px;
+   bottom:0px;
+   height:30px;
+   width:100%;
   }
-  .secondSlide{
-      text-align: center;
-      border: 1px solid rgb(243, 144, 144);
-  border-radius: 9px;
-      background-color: rgba(128, 0, 122, 0.308);
-      margin: 5%;
-  }
-  .slideThree{
-    
-  }
-  #validado {
-    color:salmon
-}
-  footer {font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  font-size:13px;
-  text-align:right;
-  }
-
-  #textoIngresaTarjeta {
-  font-size:150%;
-  }
-
+  /* Acá están los display de cada slide*/
   #enterCard {
   display:none;
   }
@@ -74,6 +143,7 @@
   #contactForm {
   display:none;
   }
+  
   
   #finalScreen {
   display:none;

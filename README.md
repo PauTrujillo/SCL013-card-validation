@@ -1,29 +1,30 @@
 ![Banner](src/banner.png)
 
-# ***ID-TELOS*** ||  *We Trust*
-:star: :star: :star: :star: :star:
+:star: :star: :star: :star: :star: # ***ID-TELOS*** ||  *We Trust* :star: :star: :star: :star: :star:
+
 
 ### INDICE
 
 * [1. INTRODUCCIÓN](#introduccion)
-* [2. CONOCIENDO ID-TELOS](#2.CONOCIENDO-ID-TELOS)	
-* [3. PROCESO CREATIVO](#3-creativo)	
-* [4. DISEÑO UX](#3-ux)	
-* [5. CONCLUSIONES Y REFLEXIONES](#3-ux)	
-* [6. AGRADECIMIENTOS](#3-ux)	
+* [2. CONOCIENDO ID-TELOS](#conociendo)	
+* [3. PROCESO CREATIVO](#creativo)	
+* [4. DISEÑO UX](#diseno)	
+* [5. CONCLUSIONES Y REFLEXIONES](#conclusiones)	
+* [6. AGRADECIMIENTOS](#agradecimientos)	
 
 ***	
 
-## <a id="introduccion"> 1. INTRODUCCIÓN  :arrow_forward: </a>
+<a id="introduccion"> ##  1. INTRODUCCIÓN  :arrow_forward: </a>
 
 ***ID-TELOS*** es un una aplicación web, cuyo fin es validar la identidad del usuario que accede a nuestra plataforma, logrando así obtener servicios exclusivos en **los mejores moteles de Chile**, que forman parte de nuestra red. Esto se logra a través de la verificación de una tarjeta de crédito válida, y completando un formulario de datos básico. 
 
-## 2. CONOCIENDO ID-TELOS	:heart:
+<a id="conociendo">  ## 2. CONOCIENDO ID-TELOS	:heart: </a>
 
-***ID-TELOS*** es una plataforma de verificación, cuyo _objetivo final_ es cambiar el paradigma de la experiencia de usuarios, al momento de ir a de un motel. 
-***ID-TELOS*** nace debido tanto a la necesidad de nuestros clientes, de mejorar la experiencia de usuario provista a sus clientes, así como de sus mismos usuarios, quienes necesitan una experiencia de usuario superior, mejorada y renovada. 
+***ID-TELOS*** es una plataforma de verificación, cuyo _objetivo final_ es cambiar el paradigma de la experiencia de usuarios, al momento de visitar un motel.
 
-No cabe duda que los productos y servicios que ofrecen nuestros moteles asociados, son de excelencia y de primera calidad, pero hacía falta algo, un paso más allá que convirtiera la experiencia de los usuarios de excelente a *Inolvidable*. 
+***ID-TELOS*** nace debido a la necesidad profunda de nuestros moteles colaboradores, por mejorar la experiencia de usuario que proveen a sus clientes, pero también debido a la necesidad de estos últimos, quienes constantemente buscan una experiencia de usuario superior, mejorada y renovada. 
+
+No cabe duda que los productos y servicios que ofrecen nuestros moteles asociados, son de excelencia y de primera calidad, pero hacía falta algo, un paso más allá que convirtiera la experiencia de los usuarios de excelente a _Inolvidable_. 
 
 Es ahí donde entra en juego ***ID-TELOS***.
 
@@ -37,7 +38,7 @@ Es ahí donde entra en juego ***ID-TELOS***.
 
 EL usuario que desee ser parte de estos beneficios, puede obtener acceso a través de 2 posibles vías: 
  
-:black_medium_small_square: Al momento de reservar una habitación en la página web de cualquiera de nuestros moteles asociados, será redireccionado a la plataforma de ***ID-TELOS*** y donde se realiza el proceso de verificación para confirmar su reserva. Con esto el usuario accede a los dos beneficios de nuestro programa. 
+:black_medium_small_square: Al momento de reservar una habitación en la página web de cualquiera de nuestros moteles asociados, será redireccionado a la plataforma de ***ID-TELOS*** , donde se realizará el proceso de verificación para confirmar su reserva. Con esto el usuario accede a los dos beneficios de nuestro programa. 
 
 :black_medium_small_square: Al momento de llegar a un motel, sin previa reserva. El recepcionista del motel accede directamente a nuestra plataforma, y realiza el proceso de verificación del usuario. Con esto, el usuario puede acceder al beneficio principal de nuestro programa, que es el pago a posteriori, pero no lleva a cabo una reserva previa. 
 
@@ -51,14 +52,14 @@ En caso que el usuario no llegara a cancelar la reserva, se procede a hacer un b
 En caso que el usuario se llegara a retirar del establecimiento sin hacer pago de los servicios y productos solicitados, se procerá al bloqueo definitivo del usuario en nuestra plataforma. También se generará una alarma que será transmitida a moteles fuera de nuestra red de clientes. Además, se procederá a las acciones legales correspondientes. :broken_heart:
 
 
-## 3. PROCESO CREATIVO :rocket:
+<a id="creativo"> ## 3. PROCESO CREATIVO :rocket: </a>
 
 ### :one: La Idea :bulb:
 
 ***ID-TELOS*** comienza con el desafío de llevar a cabo una aplicación web, que trabajáse a partir de la validación de un numero de tarjeta de crédito.
-Luego de una gran lluvia de ideas, e ires y venires, nos dimos cuenta que, podíamos aplicar este mecanismo, al mundo de los moteles; si bien estos son lugares de alojamiento de paso, su objetivo principal es satisfacer y llevar a cabo las fantasías y deseos de sus clientes; Pero, a pesar de ofrecer productos y servicios de excelente calidad, faltaba un pequeño toque, que no solo apelara a la excelencia, sino lograra hacer sentir a sus usuarios especiales, importantes, y lograr así transformar el sentimiento de ser simples usuarios de paso de un excelente servicio, a ser el eje central de la experiencia. 
+Luego de una gran lluvia de ideas, e ires y venires, nos dimos cuenta que, podíamos aplicar este mecanismo, al mundo de los moteles; si bien estos son lugares de alojamiento de paso, su objetivo principal es satisfacer y llevar a cabo las fantasías y deseos de sus clientes; Pero, a pesar de ofrecer productos y servicios de excelente calidad, faltaba un pequeño toque, que no solo apelara a la excelencia, sino lograra hacer sentir a sus usuarios especiales, importantes, alcanzando así a transformar el sentimiento de ser simples usuarios de paso de un excelente servicio, a ser el eje central de la experiencia. 
 
-Es así como, nace ***ID-TELOS***... Somos un voto de confianza entre nuestros clintes y sus usuarios... Un garante participativo, que busca satisfacer tanto las necesidades de nuestros clientes y también de nuestros usuarios. 
+Es así como, nace ***ID-TELOS***... Somos un voto de confianza entre nuestros clientes y sus usuarios... Un garante participativo, que busca satisfacer tanto las necesidades de nuestros clientes y también de nuestros usuarios. 
 
 ### :two: Planificación :date: :pencil2: :open_file_folder:
 
@@ -83,42 +84,52 @@ Ya con toda la planificación lista, procedimos a trabajar en nuestro proyecto.
 
 ### :three: Investigación y Desarrollo :chart_with_upwards_trend:
 
-La primera parte del proceso de investigación consistió en definir las lineas investigativas, en las diferentes áreas a trabajar, las cuales són HTML, CSS, JavaScript. 
-Acordamos posibles caminos para resolver nuetras interrogantes en cuanto la teoría y aplicación de esta, en función de la construcción de nuestro programa. 
+La primera parte del proceso de investigación consistió en definir las lineas investigativas, en las diversas áreas a trabajar, las cuales són HTML, CSS, JavaScript. 
+Acordamos posibles caminos para resolver nuestras interrogantes en cuanto la teoría y aplicación de esta misma, en función de la construcción de nuestro programa. 
 Fuimos dividiendo las temáticas y tareas, y a la vez también trabajando en conjunto y compartiendo las nuevas ideas y conocimientos, para ir paso a paso avanzando en el proyecto. 
 
 Con un marco teórico establecido, procedimos realizar un diagrama, para definir el flujo que tendría nuestra aplicación, y asi tener identificado el paso a paso de las tareas a realizar en el código. 
 
-Se definió los usuarios, se hizo prototipado, se hizo puebas de usuario. 
+![imagen a mostrar](IDTELOS-DIAGRAMA-DE-FLUJO.jpg)
 
-COn esto llegamos auna concepcion nueva de uestra aplicacion y llevamos a cabo una ultia maqueta, la cual fue probada con usuarios. 
+Basado en esto creamos un prototipo del programa, el cuál fue testeado en usuarios que cumplieran con el perfil construido. Veremos esto en detalle en nuestra próxima sección. 
 
-a empezar a escribir el código de nuestro proyecto, llegando hasta donde entreguemos. 
+Luego de tener un feedback después de las pruebas de usuario, procedimos a crear una maqueta de nuestro programa, la cuál tuvo un testeo final, y sobre la cuál trabajamos y comenzamos a codear. 
+
+El resultado de nuestro programa, es el punto cúlmine de todo nuestro proceso de trabajo y aprendizaje para la construcción de este programa. Si bien no se logró completar en un 100%, cada paso fue concientemente internalizado y también implicó de nuestro esfuerzo, trabajo y dedicación. 
 
 
-
-
-## 4. DISEÑO UX :iphone: :ok_hand:
+<a id="diseno"> ## 4. DISEÑO UX :iphone: :ok_hand:</a>
 
 El proceso de Diseño UX fue una pieza clave para el desarrollo de esta aplicación.
+Nuestro proyecto, al tener un fin que se enfoca netamente a elevar la experiencia de usuario de quienes nos escogen, es vital que tenga un proceso de diseño nutrido y profundo. 
 A continuación vamos a detallar los diferentes pasos que fuimos dando, en el proceso de diseño de la experiencia de usuario. 
 
 
 ### Nuestros Usuarios :couple: :two_women_holding_hands: :two_men_holding_hands:
 
-ACA FALTA DEFINIR NECESIDADES generales. de ususario y cliente 
-COMO LAS RESOLVEMOS
+
+Nuestros clientes directos son los moteles pertenecientes a nuestra cadena de colaboradores, quienes buscan incansablemente el bienestar y satisfacción de sus clientes, quienes son los  usuarios principales de nuesstra aplicacón. 
+
+Nuestro Cliente tiene la necesidad de mejorar su servicio, para así, no solo fidelizar a su clientela, sino para crear un vínculo indisoluble de confianza, la cuál apunta a transformar por completo la experiencia de sus usuarios. 
+
+Por otra parte, los usuarios de nuestra aplicación, son personas adultas, quienes tienen una preferencia por los servicios y productos que eleven su experiencia de usuario; Mientras mejor la experiencia, más satisfecho queda este usuario. 
+Este usuario está en una constante búsqueda por mejorar su experiencia, y está dispuesto a invertir recursos en para que así sea. 
+
+Según esto, y según los fines de nuestra aplicación, podemos dividir a nuestros usuarios en los siguientes perfiles. 
 
 
-USUARIO PERFILES: 
+***PERFIL DE USUARIO ***
+
 Tenemos 3 posibles tipos de usuario para esta experiencia.  
 
-A)	Usuario que reserva habitación a través de la web. Accede a plataforma, redireccionado desde página original del motel. 
-B)	Recepcionista de motel, quien recibe a usuario sin reserva previa, pero que desea pagar al final del servicio. Recepcionista accede a plataforma de manera directa y verifica. 
-C)	Usuario indirecto, quien solo accede al servicio de pagar su cuenta al final. 
+A)	Usuario que reserva su habitación a través de la web de un motel perteneciente a nuestra red. 
+El usuario es redireccionado a nuestra plataforma, a través de la web de motel, para terminar de confirmar su reserva. 
+B)	Recepcionista de motel, quien recibe a usuario sin reserva previa, pero que desea pagar por sus productos y servicios al final de su estadía. Recepcionista accede a plataforma de manera directa y verifica la identidad del usuario. 
+C)	Usuario indirecto, quien no entra a la plataforma, pero accede al servicio de pagar su cuenta al final. 
 
 
-Perfil Usuario A: 
+**Perfil Usuario A:** 
 
 Hombres y mujeres. 
 Mayores de 18 años. 
@@ -128,18 +139,18 @@ Con acceso a plataforma web.
 Necesidades Usuario A: 
 
 Nuestro Usuario A, es un hombre o mujer, mayor de edad, con acceso a servicios bancarios. 
-Este usuario tiene la necesidad de asistir a su motel preferido en X fecha, pero quiere asegurarse, de que al momento de llegar, la habitación que desean esté disponible para ellos. 
-Nuestro usuario está dispuesto a gastar un poco de su tiempo en reservar online, con el fin de tener un experiencia superior, a la hora de ir a un motel. Para este usuario, pagar su cuenta al final del servicio, lo hace sentir especial, importante, por ende su experiencia de usuario mejora en comparación a un servicio regular. 
+Este usuario suele y disfruta asistiendo a su motel preferido en la fecha y hora que desee, pero necesita asegurarse, de que al momento de llegar, la habitación que desean esté disponible para ellos. 
+Nuestro usuario está dispuesto a gastar un poco de su tiempo en reservar online, con el fin de tener un experiencia superior, cuando visita motel. Para este usuario, pagar su cuenta al final del servicio, lo hace sentir especial, importante, por ende su experiencia de usuario mejora en comparación a un servicio regular. Siente que el hotel es un espacio donde confían en él, por tanto, su estadía es más agradable y amena. 
 
 Este usuario necesita:
 
 * Una plataforma rápida y sencilla, que le permite hacer el proceso en el menor tiempo posible.
 * Una plataforma con interfaz discreto y neutral. 
-* Un servicio confiables, que no descuente dinero de sus tarjetas. 
+* Un servicio confiable, que no descuente dinero de sus tarjetas. 
 * Un servicio que lo haga sentir que es importante y que confían en él. 
 
 
-Perfil Usuario B
+***Perfil Usuario B***
 
 Hombres y mujeres trabajadores de los moteles de la red. 
 Mayores de 18 años. 
@@ -149,7 +160,7 @@ Con acceso a plataforma web.
 Necesidades Usuario B:
 
 Usuario B accede a plataforma no por sí mismo, sino como parte de su trabajo. 
-Si bien este usuario no tiene una necesidad propia para utilizar esta aplicación, de todas maneras queremos que su experiencia sea buena y no tenga problemas para llevar a cabo su misión. 
+Si bien este usuario no tiene una necesidad propia para utilizar esta aplicación, de todas maneras queremos que su experiencia sea buena y no tenga problemas para llevar a cabo su misión, ya que es una de las responsabilidades de su labor, la cuál queremos que sea exitosa, expedita y que no genere problemas. 
 
 Este usuario necesita: 
 
@@ -157,14 +168,14 @@ Este usuario necesita:
 * Un servicio que haga fácil su trabajo y que sea agradable cada vez que tiene que acceder a la plataforma.
 
 
-Perfil Usuario C
+***Perfil Usuario C***
 
 Hombres y mujeres. 
 Mayores de 18 años. 
 Con acceso a una tarjeta de crédito. 
 
 
-Nuestro Usuario C es un usuario pasivo, ya que no ingresa directamente a nuestra plataforma, pero si puede acceder al servicio, a través de un tercero, que es el trabajador del motel. De todas maneras, es importante que en este paso, no se vea afectada la experiencia del usuario, por ende es fundamental que sea un servicio rápido y confiable. 
+Nuestro Usuario C es un usuario pasivo, ya que no ingresa directamente a nuestra plataforma, pero si puede acceder al servicio, a través de un tercero, que es el trabajador del motel. De todas maneras, es importante que en este paso, no se vea afectada la experiencia del usuario, por ende es fundamental que sea un servicio rápido, confiable y que no aporte al bienestar del cliente. 
 
 Este usuario necesita:
 
@@ -175,239 +186,126 @@ Este usuario necesita:
 
 
 
-###  Interfase y Prototipado :memo:
+###  Interfase y Prototipado :memo: :computer:
 
-El proceso de prototipado fue fundamental para el desarrollo de nuestro proyecto. 
-Por un lado nos sirvió para convertir en imagenes la idea teórica de nuestro proyecto, para mejorarlo, para confirmar las necesidades de usuario, para definir el per fil de usuario. 
+El proceso de prototipado fue fundamental para el desarrollo de nuestra aplicación. 
+En primer lugar nos sirvió para poder llevar a cabo un acercamiento inicial a la visualidad de nuestro proyecto. Con esto, pudimos comenzar a desarrollarlo y a realizar pruebas de usuarios, donde a partir del feedback recibido, tuvimos la posibilidad de cambiar y hacer mejoras a nuestro proyecto. 
+El prototipado fue la base a partir de la cuál pudimos comenzar a trabajar y hacer crecer nuestro programa. 
 
-![imagen a mostrar](IDTELOS-DIAGRAMA-DE-FLUJO.jpg)
+A continuación, detallamos el paso a paso de este proceso. 
 
 
-HICIMOS UN DAGRAMA DE FLUJI
+Comenzamos haciendo sketchs a mano, los cuales, luego de varias versiones en borrador,pasamos en limpio. Este Sketch, esta basado en el diagrama de flujo que pudieron ver en la sección anterior. 
 
 ![imagen a mostrar](imagen_sketch_1.JPG)
 ![imagen a mostrar](imagen_sketch_2.JPG)
 ![imagen a mostrar](imagen_sketch_3.JPG)
 
-Hicimos sketch a mano, que pasamos en limpio, luego lo digitalizamos, luego hicimos el primer prototipo. 
+Un vez listo este sketch a mano, lo digitalizamos con el programa InVision. 
 
-Despues hicimos prubeas de usuarios con este prototipo. 
+![imagen a mostrar](amano.png)
 
-NUEVO DIAGRAMA DE FLUJO 
-Segun el feedback, hicimos una maqueta final, la cual nuevamente probamos con los usuarios. 
+Con este primer acercamiento digital, procedimos a hacer una pequeñas mejoras, y creamos nuestro primer prototipo, también con el programa Invision. EN este caso, ya habíamos tomado algunas deciones formales, cómo eliminar la pantalla cancelar, y también utilizar un banner como header. 
 
-ACA A
+![imagen a mostrar](prototipado1.png)
 
-La interfase fue definida en cuanto a las necesidades de nuestros usuarios. Una plataforma sencilla, rapida y discreta, que no revele a primera vista de que se trata. Evitamos las vueltas sin sentido en el programa y nos enfocamos en hacer una plataforma com un buen flow y un diseño ameno con el usuario balbablabalbala
+[Visita acá nuestro Prototipado](https://paulatrujillo960530.invisionapp.com/console/IDTELOS_V1-ck8gcwdli01cd014sfep1hncz/ck8gcwuz601fb019ts782857p/play)
 
+Con este prototipo listo, procedimos a hacer pruebas de usuarios. 
 
+Escribimos un guión para pautar la prueba y procedimos a reunir 5 usuarios, mayores de edad, hombres y mujeres, con acceso a tarjeta de créditos y clientes de moteles. 
 
-## 5. CONCLUSIONES Y REFLEXIONES
+[Revisa acá nuestro guión](https://trello.com/c/R6JqlPFy/12-definir-usuario-necesidades-guion-test)
 
-## 6. AGRADECIMIENTOS
+Acordamos reuniones vía zoom, las cuales grabamos, con autorización y bajo confidencialidad. 
 
+Les dimos acceso a un link, donde pudieron navegar a través del protipo.
 
+Una vez finalizadas las pruebas, pudimos obtener la siguiente información:
 
-* Manipular _**strings**_ (cadenas de texto).	
-* Usar **control de flujo** (bucles, condicionales, ...).	
-* Actualizar la pantalla con los resultados (**manipular el DOM**) a través de	
-  **innerHTML** o **textContent**.	
-* **Implementar funciones** dada una descripción de su comportamiento.	
-* Verificar que tus funciones hagan las cosas para las que fueron creadas	
-  (**pruebas unitarias (_unit tests_) con [Jest](https://jestjs.io/es-ES/)**).	
-* Configurar tu cuenta de git.	
-* Hacer _fork_ y _clonar_ el repositorio del proyecto.	
-* Mantener actualizado los cambios en tu repositorio remoto	
-  (commit, pull, push).	
-* Desplegar tu proyecto en [GitHub Pages](https://pages.github.com).	
+:o: Existen los usuarios perfilados. 
 
-## Sotf Skills o Habilidades Blandas	
+:o: El usuario siempre está en búsqueda de una mejor experiencia de usuario. 
 
-* **Planificación, organización y manejo del tiempo** : Organizarse de manera general, haciendo una estimación aproximada de los tiempos que se necesitarán para la realización del proyecto. Conocer las ceremonias y artefactos ágiles (sprint planning, dailys, retrospectiva, revisión de tablero en trello al menos, etc) a pesar de que no se utilicen con regularidad.	
-* **Autoaprendizaje** : Demostrar interés y adquirir nuevos conocimientos autónomamente, estudiando de manera independiente, lo que se traduce, en que cuando es necesario, la estudiante buscará aclarar conceptos y resolver dudas sobre la materia.	
-* **Presentaciones** : Utilizar ciertas estrategias para hablar en público (tono y ritmo de voz adecuado, contacto visual con el público, interacción con medios de presentación), que permitan asegurar un mediano entendimiento de la audiencia.	
-	
-* **Solución de problemas** : Trabajar en la búsqueda y en la elaboración de soluciones alternativas a problemas de mediana complejidad.	
+:o: El usuario está dispuesto a invertir diversos recursos, con el fin de acceder a una experiencia superior. 
 
-* **Dar y recibir feedback** : Escuchar los comentarios y críticas de los demás de manera respetuosa, y/o comunicar a los demás las opiniones de forma constructiva.	
-* **Comunicación eficaz** : Comunicar ideas a los demás cuando es necesario, aunque no siempre se fomenten de manera proactiva estas instancias de comunicación.	
-* **Trabajo en equipo** : Trabajar con otros de forma colaborativa y en base a un objetivo común, entregando ideas para la construcción del proyecto.	
+:o: Al usuario le complacen enormemente los servicios ofrecidos por ID-TELOS. 
 
-## 4. Consideraciones generales	
+:o: ***ID-TELOS*** resulve las necesidades, tanto de los clientes como de los usuarios. 
+
+:o: Al usuario le da confianza que no se descuente dinero de la tarjeta de credito. 
+
+:o: El usuario prefiere una plataforma rápida, eficaz y sencilla. 
+
+:o: El usuario busca una interfaz simple, discreta y que no haga alusiones directas a moteles. 
+
+:o: Es fundamental tener un buen diseño visual de la interfaz. 
 
 
-* El proyecto será entregado subiendo tu código a GitHub (commit/push) y la	
-  interfaz será desplegada usando GitHub pages. Si no sabes lo que es GitHub, no	
-  te preocupes, lo aprenderás durante este proyecto.	
-
-## 5. Criterios de aceptación mínimos del proyecto	
-
-Usa solo caracteres numéricos (dígitos) en la tarjeta a validar [0-9].	
-
-### Definición del producto	
-
-En el `README.md`, cuéntanos cómo pensaste en los usuarios y cuál fue tu proceso	
-para definir el producto final a nivel de experiencia y de interfaz.	
-
-* Quiénes son los principales usuarios de producto.	
-* Cuáles son los objetivos de estos usuarios en relación con tu producto.	
-* Cómo crees que el producto que estás creando está resolviendo sus problemas.	
-
-### Interfaz de usuario (UI)	
-
-La interfaz debe permitir al usuario:	
-
-* Insertar el número que queremos validar.	
-* Ver el resultado si es válido o no.	
-* Ocultar todos los dígitos de su número de tarjeta menos los últimos	
-4 caracteres.	
-* No debe poder ingresar un campo vacío.	
-
-### UX (Diseño de experiencia de usuario)	
-
-Antes de iniciar a codear, debes entender el problema que quieres solucionar y	
-cómo tu aplicación lo soluciona.	
-
-* Trabaja tu primer prototipo con papel y lápiz (blanco y negro).	
-* Luego valida esta solución con una compañera (pedir feedback).	
-* Toma lo aprendido al momento de validar tu primer prototipo y desarrolla un	
-  nuevo prototipo usando alguna herramienta para diseño de prototipos	
-  ([Balsamiq](https://balsamiq.com/), [Figma](https://www.figma.com/),	
-  [Google Slides](https://www.google.com/intl/es/slides/about/), etc.)	
-Estos puntos los presentarás en el `README.md`.	
+Gracias a toda esta información y retroalimentación, reformulamos nuestro proyecto, y creamos un diagrama de flujo nuevo, donde fuera más eficaz el flujo de la aplicación. 
 
 
-##### `README.md`	
+![imagen a mostrar](FLUJOFINAL.png)
 
-Debe contener lo siguiente:	
+Con esto creamos una maqueta final de nuestra aplicación, con la cual realizamos nuevas pruebas de usuarios. 
+
+![imagen a mostrar](maqueta1.png)
+
+![imagen a mostrar](maqueta2.png)
+
+[Revisa acá nuestra maqueta](https://carladaz131271.invisionapp.com/console/credito-final-ck8xv74aq3ir20154vod1x5zd/ck90gsrig01su01aro7tmqrgm/play)
+
+Luego de estas segundas pruebas pudimos confirmar la información que otuvimos en las primeras pruebas, y adicionalmente comprobamos que. 
+
+:o: Mejoró el flujo de la aplicación.
+
+:o: Es fundamental presentar al usuario una interfaz y diseño que se acerque a la realidad de lo que va a ser la aplicación, ya que aporta mucho a la concepción del usuario, ver el producto lo más cercano posible a la realidad. 
+
+Dicho todo esto, nuestro producto final se ve así:
+
+![imagen a mostrar](a.png)
+![imagen a mostrar](b.png)
+![imagen a mostrar](c.png)
+![imagen a mostrar](d.png)
+![imagen a mostrar](e.png)
+![imagen a mostrar](f.png)
 
 
-* La imagen final de tu proyecto.	
-* Investigación UX:	
-  1. Explicar quiénes son los usuarios y los objetivos en relación con el	
-    producto.	
-  2. Explicar cómo el producto soluciona los problemas/necesidades de dichos	
-    usuarios.	
-  3. Luego colocarás la foto de tu primer prototipo en papel.	
-  4. Agregar un resumen del feedback recibido indicando las mejoras a realizar.	
-  5. Imagen del prototipo final.	
+La interfase fue definida en cuanto a las necesidades de nuestros usuarios. Una plataforma sencilla, rapida y discreta, que no revele a primera vista de que se trata, pero que al mismo tiempo, también refleje la esencia de ***ID-TELOS***.
+ Evitamos las vueltas sin sentido en el programa y nos enfocamos en hacer una plataforma com un buen flow y un diseño moderno, seductor y eficaz. 
 
-#### Visualmente (HTML y CSS)	
 
-Deberás maquetar de forma exacta el prototipo final que hiciste en la herramienta	
-de diseño de prototipos que escogiste utilizando HTML y CSS. En este momento elegirás	
-los colores, tipo de fuente, etc a usar.	
+<a id="conclusiones"> ## 5. CONCLUSIONES Y REFLEXIONES :heavy_check_mark: :clap: :clap: :clap:</a>
 
-#### Funcionalmente (JavaScript - pruebas unitarias)	
+Todo el proceso de la creación de esta aplicación fue realmente interesante y desafiante. Somos un equipo que está comenzando 100% desde cero, y cada paso del proceso fue un reto a nivel investigativo, teótico y de aprendizaje, lo cual hizo que tuvieramos que poner el 200% de nosotras. 
 
-* La lógica del proyecto debe estar implementada completamente en JavaScript.	
-* En este proyecto NO está permitido usar librerías o frameworks, sólo JavaScript	
-puro también conocido como Vanilla JavaScript.	
-* No se debe utilizar la _pseudo-variable_ `this`.	
+Nos dimos cuenta que, a pesar que estuvimos siempre trabajando para sacar adelante el proyecto, el recurso tiempo se nos hizo corto, ya que no logramos completar el proyecto en su totalidad. Esto nos sirve de experiencia, ya que para un futuro proyecto, sabemos que tenemos que poner el doble de recursos en lo que más nos cuesta, así como comenzar por lo que más nos cuesta, porque lo que se nos hace más fácil, va a salir rápidamente. 
 
-Vas a tener 2 archivos JavaScript separando responsabilidades, a continuación	
-indicamos qué harás en cada archivo:	
+También es muy importante destacar que para nosotras fue fundamental el trabajo en equipo, ya que gracias a eso, pudimos apoyarnos en nuestros conocimientos, e ir trabajando juntas nuestras debilidades, para así ir aprendiendo en conjunto a lo largo del camino. 
 
-##### `src/validator.js`	
+Descubrimos que es muy interesante el procesos de diseño UX, el cuál disfrutamos de gran manera, y llevamos a cabo con mucha pasión. 
 
-Acá escribirás las funciones necesarias para que el usuario pueda verificar la	
-tarjeta de crédito y ocultar los dígitos de su número de tarjeta.	
-Esta función debe ser pura e independiente del DOM.	
+En cuanto al proyecto en sí, podemos decir que ***ID-TELOS*** si cumple con su objetivo final, ya que los servicios que ofrece, permiten tanto a los moteles ofrecer una mejor experiencia de usuario para sus clientes, y así como los usuarios, pueden acceder a servicios que van a satisfacer su búsqueda por acceder a una experiencia de usuario superior. 
 
-Para esto debes implementar el **objeto `validator`**, el cual ya se encuentra	
-_exportado_ en el _boilerplate_. Este objeto (`validator`) contiene	
-dos métodos (`isValid` y `maskify`):	
+Gracias a todas las pruebas de usuarios realizadas, tenemos en consideración algunos puntos que nos pueden servir para mejoras en el futuro, de la próxima versión de ***ID-TELOS***. Dentro de las mejoras sugeridas por los usuarios  queremos rescatar las siguientes:
 
-* **`validator.isValid(creditCardNumber)`**: `creditCardNumber` es un `string`	
-con el número de tarjeta que se va a verificar. Esta función debe retornar un	
-`boolean` dependiendo si es válida de acuerdo al [algoritmo de Luhn](https://es.wikipedia.org/wiki/Algoritmo_de_Luhn).	
+:red_circle: Que ***ID-TELOS*** eventualmente se convierta en una plataforma, no solo de verificación, sino en una comunidad, donde se pueda acceder directamente a la información de los moteles de nuestra red, algo así como un "airbnb" de moteles. 
 
-* **`validator.maskify(creditCardNumber)`**: `creditCardNumber` es un `string` con	
-el número de tarjeta y esta función debe retornar un `string` donde todos menos	
-los últimos cuatro caracteres sean reemplazados por un numeral (`#`) o 🐱.	
-Esta función deberá siempre mantener los últimos cuatro caracteres intactos, aún	
-cuando el `string` sea de menor longitud.	
+:red_circle: Que la plataforma permita directamente comprar productos y servicios adicionales en la reserva. 
 
-    Ejemplo de uso	
+:red_circle: Que las cancelaciones se hagan directamenta través de nuestra plataforma. 
 
-    ```js	
-    maskify('4556364607935616') === '############5616'	
-    maskify(     '64607935616') ===      '#######5616'	
-    maskify(               '1') ===                '1'	
-    maskify(               '')  ===                ''	
-    ```	
+Todo esto y más, los espera para nuestra versión 2.0. 
 
-##### `src/index.js`	
 
-Acá escribirás todo el código que tenga que ver con la interacción del DOM	
-(seleccionar, actualizar y manipular elementos del DOM y eventos).	
-Es decir, en este archivo deberás invocar las funciones `isValid` y `maskify`	
-según sea necesario para actualizar el resultado en la pantalla (UI).	
+<a id="agradecimientos"> ## 6. AGRADECIMIENTOS  :cupid: </a>
 
-##### `test/validator.spec.js`	
+Agradecemos en primer lugar a nuestras familias, quienes fueron un apoyo fundamental en todo este proceso, apoyándonos en nuestras casas, y siendo comprensivos ante nuestra ausencia y trabajo arduo de estos días. 
 
-En este archivo tendrás que completar las pruebas unitarias de las funciones	
-`validator.isValid(creditCardNumber)` y `validator.maskify(creditCardNumber)`	
-implementadas en `validator.js` utilizando [Jest](https://jestjs.io/es-ES/).	
-Tus pruebas unitarias deben dar un 70% en _coverage_ (cobertura),	
-_statements_ (sentencias), _functions_ (funciones) y _lines_ (líneas); y un	
-mínimo del 50% de _branches_ (ramas).	
+Tambien queremos agradecer al equipo de laboratoria, a nuestro Jedi y a nuestras Coachs y psicólogas, quienes fueron un apoyo fundamental para poder ir avanzando en los desafíos que implicaba la realización de este proyecto, así como un apoyo emocional para albergar todos nuestros procesos y sentimientos a flor de piel. 
 
-***	
-
-## 6. Pistas, tips y lecturas complementarias	
-
-### Primeros pasos	
-
-1. Antes que nada, asegúrate de tener un :pencil: editor de texto en	
-  condiciones, algo como [Atom](https://atom.io/) o	
-  [Code](https://code.visualstudio.com/).	
-2. Para ejecutar los comandos a continuación necesitarás una :shell:	
-  [UNIX Shell](https://github.com/Laboratoria/bootcamp/tree/master/topics/shell),	
-  que es un programita que interpreta líneas de comando (command-line	
-  interpreter) así como tener [git](https://github.com/Laboratoria/bootcamp/tree/master/topics/scm/01-git)	
-  instalado. Si usas un sistema operativo "UNIX-like", como GNU/Linux o MacOS,	
-  ya tienes una _shell_ (terminal) instalada por defecto (y probablemente `git`	
-  también). Si usas Windows puedes usar la versión completa de [Cmder](https://cmder.net/)	
-  que incluye [Git bash](https://git-scm.com/download/win) y si tienes Windows 10	
-  o superior puedes usar [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10).	
-3. Una de las integrantes del equipo debe realizar un :fork_and_knife:	
-  [fork](https://help.github.com/articles/fork-a-repo/) del repo de tu cohort,	
-  tus _coaches_ te compartirán un _link_ a un repo y te darán acceso de lectura	
-  en ese repo. La otra integrante del equipo deber hacer un fork **del	
-  repositorio de su compañera** y	
-  [configurar](https://gist.github.com/BCasal/026e4c7f5c71418485c1) un `remote`	
-  hacia el mismo.	
-4. :arrow_down: [Clona](https://help.github.com/articles/cloning-a-repository/)	
-  tu _fork_ a tu computadora (copia local).	
-5. 📦 Instala las dependencias del proyecto con el comando `npm install`. Esto	
-  asume que has instalado [Node.js](https://nodejs.org/) (que incluye [npm](https://docs.npmjs.com/)).	
-6. Si todo ha ido bien, deberías poder ejecutar las :traffic_light:	
-  pruebas unitarias (unit tests) con el comando `npm test`.	
-7. Para ver la interfaz de tu programa en el navegador, usa el comando	
-  `npm start` para arrancar el servidor web y dirígete a	
-  `http://localhost:5000` en tu navegador.	
-8. A codear se ha dicho! :rocket:	
+Por último, pero no menos importante, queremos agradecer a nuestras compañeras de Squad, quienes siempre estuvieron ahí para darnos una palabra de aliento, un consejo, o simplemente con su compañerismo, que fue una dosis vitaminica para todas, en esta grandiosa experiencia. 
 
 
 
-## 7. Checklist	
-
-Esta sección está para ayudarte a llevar un control de lo que vas completando.	
-
-### Parte Obligatoria	
-
-* [ ] `README.md` incluye info sobre proceso y decisiones de diseño.	
-* [ ] `README.md` explica claramente quiénes son los usuarios y su relación con	
-  el producto.	
-* [ ] `README.md` explica claramente cómo el producto soluciona los	
-  problemas/necesidades de los usuarios.	
-* [ ] Implementa `validator.isValid`.	
-* [ ] Implementa `validator.maskify`.	
-* [ ] Pasa linter con configuración provista.	
-* [ ] Pasa pruebas unitarias.	
-* [ ] Pruebas unitarias cubren 70% de _statements_, _functions_ y _lines_, y un	
-  mínimo del 50% de _branches_.	
-* [ ] Admite solo numeros
-* [ ] Interfaz muestra el resultado de la validación correctamente.	
-* [ACA ES CON MASKYFY  ] Interfaz debe ocultar con (`#`) todos los dígitos con excepción de los últimos cuatro. 
+#####Copyright by Carla Díaz y Paula Trujillo, 2020. 
