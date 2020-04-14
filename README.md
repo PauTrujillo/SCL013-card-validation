@@ -1,5 +1,4 @@
-# ***ID-TELOS*** 
-## *We Trust*
+# ***ID-TELOS*** || ## *We Trust*
 :star: :star: :star: :star: :star:
 
 ### INDICE
@@ -14,9 +13,9 @@
 
 ***	
 
-## 1. INTRODUCCIÓN
+## 1. INTRODUCCIÓN  :arrow_forward:
 
-***ID-TELOS*** es un una aplicacición web, cuyo fin es validar la identidad del usuario que accede a nuestra plataforma, para que así pueda acceder a servicios exclusivos en los mejores moteles de Chile. Esto se logra a través de la verificación de una tarjeta de crédito válida, y completar un formulario de datos básico. 
+***ID-TELOS*** es un una aplicacición web, cuyo fin es validar la identidad del usuario que accede a nuestra plataforma, para que así pueda acceder a servicios exclusivos en los mejores moteles de Chile, que forman parte de nuestra red. Esto se logra a través de la verificación de una tarjeta de crédito válida, y completar un formulario de datos básico. 
 
 ## 2. CONOCIENDO ID-TELOS	:heart:
 
@@ -26,40 +25,54 @@
 No cabe duda que los productos y servicios que ofrecen nuestros moteles asociados, son de excelencia y de primera calidad, pero hacía falta algo, un paso más allá que convirtiera la experiencia de los usuarios de excelente a *Inolvidable*. 
 
 Es ahí donde entra en juego ***ID-TELOS***.
- Lo que ofrecemos es actuar como una garante entre el motel y su cliente. Gracias a esto, el usuario tiene acceso a 2 servicios exclusivos, que cambiarán por completo su experiencia en un motel. 
 
- - El usuario hará pago de todos los servicios y productos que contrate y requiera, al final de su estadía, y no al momento de ingresar al hotel o soicitar a
+ Somos un garante entre el motel y su cliente, sin que este último deba dejar garantías de dinero, sino a través de la verificación de una tarjeta de crédito válida, y que esta coincida con los datos de identidad provistos por el usuario. Gracias a esto, el usuario tiene acceso a 2 servicios exclusivos, que cambiarán por completo su experiencia en un motel y a los que solo puede acceder a través de ***ID-TELOS***. 
 
-¿Cómo funciona? 
+ - El usuario hará pago de todos los servicios y productos que contrate y requiera, al final de su estadía, y no al momento de ingresar al hotel ni al momento de requerir algo adicional. 
 
-Somos una plataforma digital, a la cuál se accede a través de 2 vías: 
+ - El usuario puede reservar habitaciones en su motel preferido, sin tener que dejar una garantía de dinero. 
 
-:black_medium_small_square: Al momento de reservar una habitación en la página web de cualquiera de nuestros moteles asociados, será redireccionado a la plataforma de ***ID-TELOS*** y realiza el proceso de verificación para confirmar su reserva. 
+**¿Cómo funciona?** :eyes: 
 
-:black_medium_small_square: Al momento de llegar fisicamente a un motel, sin previa reserva. El recepcionista del motel accede directamente a nuestra plataforma, y realiza el proceso de verificación del usuario. 
+EL usuario que desee ser parte de estos beneficios, puede obtener acceso a través de 2 posibles vías: 
+ 
+:black_medium_small_square: Al momento de reservar una habitación en la página web de cualquiera de nuestros moteles asociados, será redireccionado a la plataforma de ***ID-TELOS*** y donde se realiza el proceso de verificación para confirmar su reserva. Con esto el usuario accede a los dos beneficios de nuestro programa. 
 
-, donde se verificará la información a través de la verificación de la tarjeta de crédito 
+:black_medium_small_square: Al momento de llegar a un motel, sin previa reserva. El recepcionista del motel accede directamente a nuestra plataforma, y realiza el proceso de verificación del usuario. Con esto, el usuario puede acceder al beneficio principal de nuestro programa, que es el pago a posteriori, pero no lleva a cabo una reserva previa. 
 
+En ambos casos, se verifica si la tarjeta de crédito provista es válida. En caso de serlo, se accede a un formulario, donde el usuario debe ingresar su nombre, rut y numero de reserva (previamente entregado por el motel donde reservó). 
+Con estos datos, se asocia la tarjeta de crédito a una identidad, la cuál será comprobada al momento de hacer ingreso al motel. La tarjeta de crédito va a quedar para siempre ligada a esta identidad. 
 
+Si el usuario desea cancelar la reserva, debe ponerse en contacto directamente con el motel donde reservó, quien en paralelo, nos informa de esta cancelación. 
+
+En caso que el usuario no llegara a cancelar la reserva, se procede a hacer un bloqueo en nuestro sistema, tanto de la tarjeta, como del C.I asociado. Con esto el usuario no podrá acceder nuevamente a ninguno de nuestros moteles asociados. Si el usuario desea cambiar su status de baja, y reintegrarse como usuario activo, este deberá pagar al motel por el servicio impago, así como la multa correspondiente al caso. :sweat_smile:
+
+En caso que el usuario se llegara a retirar del establecimiento sin hacer pago de los servicios y productos solicitados, se procerá al bloqueo definitivo del usuario en nuestra plataforma. También se generará una alarma que será transmitida a moteles fuera de nuestra red de clientes. Además, se procederá a las acciones legales correspondientes. :broken_heart:
 
 
 ## 3. DISEÑO UX
 
-El proceso de Diseño UX fue fundamental para el desarrollo de este proyecto. A continuación vamos a detallar los diferentes pasos que dimos en este camino: 
+El proceso de Diseño UX fue fundamental para el desarrollo de esta aplicación.
+A continuación vamos a detallar los diferentes pasos que fuimos dando, en el proceso de diseño de la experiencia de usuario. 
 
 ### :one: La Idea :bulb:
 
 ***ID-TELOS*** comienza con el desafío de llevar a cabo una aplicación web, que trabajara a partir de la validación de un numero de tarjeta de crédito.
-Luego de una gran lluvia de idea, e ires y venires, nos dimos cuenta que, si bien los moteles son lugares de alojamiento de paso, su objetivo principal es satisfacer y llevar a cabo las fantasías y deseos de sus clientes. Pero, a pesar de ofrecer productos y servicios de excelente calidad, faltaba un pequeño toque, que no solo apelara a la excelencia, sino lograra hacer sentir a sus usuarios especiales, importantes, y lograr transformar el sentimiento de ser simples usuarios de paso, a ser el eje central de la experiencia. 
+Luego de una gran lluvia de ideas, e ires y venires, nos dimos cuenta que, si bien los moteles son lugares de alojamiento de paso, su objetivo principal es satisfacer y llevar a cabo las fantasías y deseos de sus clientes; Pero, a pesar de ofrecer productos y servicios de excelente calidad, faltaba un pequeño toque, que no solo apelara a la excelencia, sino lograra hacer sentir a sus usuarios especiales, importantes, y lograr así transformar el sentimiento de ser simples usuarios de paso, a ser el eje central de la experiencia. 
 
-Es así como, nace ***ID-TELOS***... Somos un voto de confianza entre nuestros cleintes y sus usuarios... Un garante participativo, que busca satisfacer tanto las necesidades de nuestros clientes y también nuestros usuarios. 
+Es así como, nace ***ID-TELOS***... Somos un voto de confianza entre nuestros clintes y sus usuarios... Un garante participativo, que busca satisfacer tanto las necesidades de nuestros clientes y también nuestros usuarios. 
 
-### :two: Desarrollo
-
-### :three: Planificación
+### :two: Planificación
 
 El proceso de planificación fue fundamental para poder llevar a cabo este proyecto, ya que nos permitió tener una perspectiva de cuales eran los objetivos a cumplir, versus la cantidad de tiempo que teníamos para ello, pudiendo así dividir este tiempo de manera eficiente entre las distintas etapas de la realización. 
-En primer lugar llevamos a cabo un desglose de todas las tareas que teníamos que llevar a cabo. 
+
+En primer lugar llevamos a cabo un desglose de todas las tareas que teníamos que llevar a cabo. Para esto utilizamos la plataforma Trello, donde fuimos desglosando cada tarea, según temática, así como los objetivos del proyect. 
+
+[a link](https://trello.com/b/lSGqxOUp/proyecto-tarjeta-credito)
+
+### :three: Desarrollo
+
+ 
 
 ### :four: Prototipado
 
