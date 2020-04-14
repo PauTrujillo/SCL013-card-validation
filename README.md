@@ -5,8 +5,8 @@
 
 ### INDICE
 
-* [1. INTRODUCCIÓN](#1.-INTRODUCCIÓN)
-* [2. CONOCIENDO ID-TELOS](#2.-CONOCIENDO-ID-TELOS)	
+* [1. INTRODUCCIÓN](#introduccion)
+* [2. CONOCIENDO ID-TELOS](#2.CONOCIENDO-ID-TELOS)	
 * [3. PROCESO CREATIVO](#3-creativo)	
 * [4. DISEÑO UX](#3-ux)	
 * [5. CONCLUSIONES Y REFLEXIONES](#3-ux)	
@@ -14,7 +14,7 @@
 
 ***	
 
-## 1. INTRODUCCIÓN  :arrow_forward:
+## <a id="introduccion"> 1. INTRODUCCIÓN  :arrow_forward: </a>
 
 ***ID-TELOS*** es un una aplicación web, cuyo fin es validar la identidad del usuario que accede a nuestra plataforma, logrando así obtener servicios exclusivos en **los mejores moteles de Chile**, que forman parte de nuestra red. Esto se logra a través de la verificación de una tarjeta de crédito válida, y completando un formulario de datos básico. 
 
