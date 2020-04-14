@@ -70,12 +70,29 @@ let numbersToAdd= cardInformation.split("");
 // arrNumbersCard.push(numbersToAdd);
 //console.log(numbersToAdd);
 let backwardsArrNumbersCard= [];
-  for (let i=numbersToAdd.length -1; i>=0; i--) {
-    backwardsArrNumbersCard.push(numbersToAdd[i]);
+for (let i=numbersToAdd.length -1; i>=0; i--) {
+  backwardsArrNumbersCard.push(numbersToAdd[i]);
+} console.log(backwardsArrNumbersCard);
+
+let newBackwardsArr= parseInt(backwardsArrNumbersCard);
+let evenNum= []
+for (let x= 0; x= backwardsArrNumbersCard.lenght-1; x++){
+  let sumatoria=
+newBackwardsArr [0]+ newBackwardsArr [2] + newBackwardsArr [4] + newBackwardsArr [6] + newBackwardsArr [8] + newBackwardsArr [10] + newBackwardsArr [12] + newBackwardsArr [14];
+console.log(sumatoria);
+evenNum.push(sumatoria);
+console.log(evenNum);
+}
+
+  }
+
+  //for (let i=numbersToAdd.length -1; i>=0; i--) {
+   
     //console.log(backwardsArrNumbersCard);
    // console.log (backwardsArrNumbersCard += backwardsArrNumbersCard[i]);
-  } console.log(backwardsArrNumbersCard);
-  for (let i= 0; i< backwardsArrNumbersCard.length; i++) {
+  
+
+  /*for (let i= 0; i< backwardsArrNumbersCard.length; i++) {
     if (backwardsArrNumbersCard[i] %2 !== 0) {
       let unevenNumbers= [];
       unevenNumbers.push(backwardsArrNumbersCard)
@@ -87,8 +104,7 @@ let backwardsArrNumbersCard= [];
     } else {
       console.log("no es par ni impar");
     }
-  }
-  }
+  }*/
 } 
 
   function flow3(){

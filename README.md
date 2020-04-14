@@ -178,12 +178,17 @@ Este usuario necesita:
 ###  Interfase y Prototipado :memo:
 
 El proceso de prototipado fue fundamental para el desarrollo de nuestro proyecto. 
-Por un lado nos sirvió para convertir en imagenes, la idea teórica de nuestro proyecto, para mejorarlo, para confirmar las necesidades de usuario, para definir el per fil de usuario. 
+Por un lado nos sirvió para convertir en imagenes la idea teórica de nuestro proyecto, para mejorarlo, para confirmar las necesidades de usuario, para definir el per fil de usuario. 
 
 ![imagen a mostrar](IDTELOS-DIAGRAMA-DE-FLUJO.jpg)
 
 
 HICIMOS UN DAGRAMA DE FLUJI
+
+![imagen a mostrar](imagen_sketch_1.jpg)
+![imagen a mostrar](imagen_sketch_2.jpg)
+![imagen a mostrar](imagen_sketch_3.jpg)
+
 Hicimos sketch a mano, que pasamos en limpio, luego lo digitalizamos, luego hicimos el primer prototipo. 
 
 Despues hicimos prubeas de usuarios con este prototipo. 
