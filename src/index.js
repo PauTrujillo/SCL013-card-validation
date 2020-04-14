@@ -66,13 +66,28 @@ function flow1(){
       flujo2.style.display="none";
     } else {
 let numbersToAdd= cardInformation.split("");
-let arrNumbersCard=[];
-arrNumbersCard.push(numbersToAdd);
+// let arrNumbersCard=[]; 
+// arrNumbersCard.push(numbersToAdd);
+//console.log(numbersToAdd);
+let backwardsArrNumbersCard= [];
   for (let i=numbersToAdd.length -1; i>=0; i--) {
-    let backwardsArrNumbersCard= [];
     backwardsArrNumbersCard.push(numbersToAdd[i]);
-    console.log(backwardsArrNumbersCard);
-  } 
+    //console.log(backwardsArrNumbersCard);
+   // console.log (backwardsArrNumbersCard += backwardsArrNumbersCard[i]);
+  } console.log(backwardsArrNumbersCard);
+  for (let i= 0; i< backwardsArrNumbersCard.length; i++) {
+    if (backwardsArrNumbersCard[i] %2 !== 0) {
+      let unevenNumbers= [];
+      unevenNumbers.push(backwardsArrNumbersCard)
+      console.log("impares", unevenNumbers); 
+    } else if (backwardsArrNumbersCard[i] %2===0) {
+      let evenNumbers= [];
+      evenNumbers.push(backwardsArrNumbersCard)
+      console.log("pares", evenNumbers);
+    } else {
+      console.log("no es par ni impar");
+    }
+  }
   }
 } 
 
