@@ -185,9 +185,9 @@ Por un lado nos sirvió para convertir en imagenes la idea teórica de nuestro p
 
 HICIMOS UN DAGRAMA DE FLUJI
 
-![imagen a mostrar](imagen_sketch_1.jpg)
-![imagen a mostrar](imagen_sketch_2.jpg)
-![imagen a mostrar](imagen_sketch_3.jpg)
+![imagen a mostrar](imagen_sketch_1.JPG)
+![imagen a mostrar](imagen_sketch_2.JPG)
+![imagen a mostrar](imagen_sketch_3.JPG)
 
 Hicimos sketch a mano, que pasamos en limpio, luego lo digitalizamos, luego hicimos el primer prototipo. 
 
