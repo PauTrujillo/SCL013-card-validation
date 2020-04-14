@@ -1,15 +1,11 @@
-# ***ID-TELOS*** || ## *We Trust*
+# ***ID-TELOS*** ||  *We Trust*
 :star: :star: :star: :star: :star:
 
 ### INDICE
 
-* [1. INTRODUCCIÓN](#1-introducción)	
-* [2. CONOCIENDO ID-TELOS](#2-conociendo-idtelos)	
-* [3. DISEÑO UX](#3-investigación-ux)	
-* [4. Consideraciones generales](#4-consideraciones-generales)	
-* [5. Criterios de aceptación mínimos del proyecto](#5-criterios-de-aceptación-mínimos-del-proyecto)	
-* [6. Pistas, tips y lecturas complementarias](#6-pistas-tips-y-lecturas-complementarias)	
-* [7. Checklist](#8-checklist)	
+* [1. INTRODUCCIÓN](#-introduccion)
+* [2. CONOCIENDO ID-TELOS](#2-conociendo)	
+* [3. DISEÑO UX](#3-ux)	
 
 ***	
 
@@ -50,7 +46,7 @@ En caso que el usuario no llegara a cancelar la reserva, se procede a hacer un b
 En caso que el usuario se llegara a retirar del establecimiento sin hacer pago de los servicios y productos solicitados, se procerá al bloqueo definitivo del usuario en nuestra plataforma. También se generará una alarma que será transmitida a moteles fuera de nuestra red de clientes. Además, se procederá a las acciones legales correspondientes. :broken_heart:
 
 
-## 3. DISEÑO UX
+## 3. DISEÑO UX :iphone: :ok_hand:
 
 El proceso de Diseño UX fue fundamental para el desarrollo de esta aplicación.
 A continuación vamos a detallar los diferentes pasos que fuimos dando, en el proceso de diseño de la experiencia de usuario. 
@@ -62,22 +58,38 @@ Luego de una gran lluvia de ideas, e ires y venires, nos dimos cuenta que, si bi
 
 Es así como, nace ***ID-TELOS***... Somos un voto de confianza entre nuestros clintes y sus usuarios... Un garante participativo, que busca satisfacer tanto las necesidades de nuestros clientes y también nuestros usuarios. 
 
-### :two: Planificación
+### :two: Planificación :date: :pencil2: :open_file_folder:
 
 El proceso de planificación fue fundamental para poder llevar a cabo este proyecto, ya que nos permitió tener una perspectiva de cuales eran los objetivos a cumplir, versus la cantidad de tiempo que teníamos para ello, pudiendo así dividir este tiempo de manera eficiente entre las distintas etapas de la realización. 
 
 En primer lugar llevamos a cabo un desglose de todas las tareas que teníamos que llevar a cabo. Para esto utilizamos la plataforma Trello, donde fuimos desglosando cada tarea, según temática, así como los objetivos del proyect. 
 
-[a link](https://trello.com/b/lSGqxOUp/proyecto-tarjeta-credito)
+[Accede a Tareas](https://trello.com/b/lSGqxOUp/proyecto-tarjeta-credito)
 
-### :three: Desarrollo
+Luego, procedimos a calendarizar todas estas tareas, dividiendo la planificación en 2 Sprint, cada uno de una semana. Sprint 1 corresponde a "Planificación e Investigación" y Sprint 2 corresponde al "Desarrollo de la aplicación en sí". 
+Es muy importante llevar a cabo este paso, ya que va a permitir verificar de manera efectiva, si contamos con los recursos suficientes para poder llevar a cabo la aplicación, así como distribuirlos de manera eficiente. 
+También es fundamental ir diariamente checando los avances, los pendendientes e ir reorganizando las tareas en el tiempo, según sea pertinente a las necesidades del desarrollo del proyecto. 
 
- 
+[Accede a Calendario](https://trello.com/b/JmJqEL8U/planning-laboratoria-01)
 
-### :four: Prototipado
+Ya con toda la planificación lista, procedimos a trabajar en nuestro proyecto. 
 
-### :five: Nuestros Usuarios :couple: :two_women_holding_hands: :two_men_holding_hands:
+### :three: Investigación y Desarrollo :chart_with_upwards_trend:
 
+El proceso de investigación comenzó definiendo cuales serían los recursos que nos servirían para llevar a cabo la aplicación. 
+
+Nos fuimos dividiendo las tareas, y a la vez también trabajando en conjunto, para ir paso a paso avanzando en el proyecto. 
+
+
+
+
+### :four: Nuestros Usuarios :couple: :two_women_holding_hands: :two_men_holding_hands:
+
+ACA FALTA DEFINIR NECESIDADES
+COMO LAS RESOLVEMOS
+
+
+USUARIO PERFILES: 
 Tenemos 3 posibles tipos de usuario para esta experiencia.  
 
 A)	Usuario que reserva habitación a través de la web. Accede a plataforma, redireccionado desde página original del motel. 
@@ -143,8 +155,23 @@ Este usuario necesita:
 
 
 
+### :five: Prototipado :memo:
+
+El proceso de prototipado fue fundamental para el desarrollo de nuestro proyecto. 
+Por un lado nos sirvió para convertir en imagenes, la idea teórica de nuestro proyecto, para mejorarlo, para confirmar las necesidades de usuario, para definir el per fil de usuario. 
+
+[Contribution guidelines for this project](SCL013-CARD-VALIDATION/IDTELOS-DIAGRAMA-DE-FLUJO.jpg)
 
 
+HICIMOS UN DAGRAMA DE FLUJI
+Hicimos sketch a mano, que pasamos en limpio, luego lo digitalizamos, luego hicimos el primer prototipo. 
+
+Despues hicimos prubeas de usuarios con este prototipo. 
+
+NUEVO DIAGRAMA DE FLUJO 
+Segun el feedback, hicimos una maqueta final, la cual nuevamente probamos con los usuarios. 
+
+ACA A
 
 
 
@@ -252,8 +279,7 @@ Estos puntos los presentarás en el `README.md`.
 
 Debe contener lo siguiente:	
 
-* Un título con el nombre de tu proyecto.	
-* Un resumen de 1 o 2 líneas de qué se trata tu proyecto.	
+
 * La imagen final de tu proyecto.	
 * Investigación UX:	
   1. Explicar quiénes son los usuarios y los objetivos en relación con el	
@@ -269,24 +295,6 @@ Debe contener lo siguiente:
 Deberás maquetar de forma exacta el prototipo final que hiciste en la herramienta	
 de diseño de prototipos que escogiste utilizando HTML y CSS. En este momento elegirás	
 los colores, tipo de fuente, etc a usar.	
-
-A continuación describimos los archivos que utilizarás:	
-
-##### `src/index.html`	
-
-En este archivo va el contenido que se mostrará al usuario (esqueleto HTML).	
-Encontrarás 3 etiquetas iniciales, las cuales si deseas puedes borrar y empezar	
-de cero:	
-
-* `<header>`: encabezado de tu proyecto.	
-* `<main>`: contenido principal de tu proyecto.	
-* `<footer>`: pie de página de tu proyecto.	
-
-##### `src/style.css`	
-
-Este archivo debe contener las reglas de estilo. Queremos que escribas tus	
-propias reglas, por eso NO está permitido el uso de frameworks de CSS	
-(Bootstrap, materialize, etc).	
 
 #### Funcionalmente (JavaScript - pruebas unitarias)	
 
@@ -379,51 +387,7 @@ mínimo del 50% de _branches_ (ramas).
   `http://localhost:5000` en tu navegador.	
 8. A codear se ha dicho! :rocket:	
 
-### Recursos y temas relacionados	
 
-A continuación un video de Michelle que te lleva a través del algoritmo de Luhn	
-y un par de cosas más que debes saber para resolver este proyecto. ¡Escúchala	
-con detenimiento y sigue sus consejos! :)	
-
-[![tips credit card](https://img.youtube.com/vi/f0zL6Ot9y_w/0.jpg)](https://www.youtube.com/watch?v=f0zL6Ot9y_w)	
-
-[Link](https://www.youtube.com/watch?v=f0zL6Ot9y_w)	
-
-Terminal y shell de UNIX:	
-
-[![Playlist de Terminal y shell de UNIX](https://img.youtube.com/vi/GB35Eyb-J4c/0.jpg)](https://www.youtube.com/playlist?list=PLiAEe0-R7u8nGH5TEHfSTeDNIvjZFe_Yd)	
-
-[Link](https://www.youtube.com/playlist?list=PLiAEe0-R7u8nGH5TEHfSTeDNIvjZFe_Yd)	
-
-Control de versiones y trabajo colaborativo con Git y GitHub:	
-
-[![Playlist de control de versiones y trabajo colaborativo](https://img.youtube.com/vi/F1EoBbvhaqU/0.jpg)](https://www.youtube.com/playlist?list=PLiAEe0-R7u8k9o3PbT3_QdyoBW_RX8rnV)	
-
-[Link](https://www.youtube.com/playlist?list=PLiAEe0-R7u8k9o3PbT3_QdyoBW_RX8rnV)	
-
-Diseño de experiencia de usuario (User Experience Design):	
-
-* [Ideación](https://lms.laboratoria.la/cohorts/scl-2020-03-bc-core-scl013/courses/intro-ux/01-el-proceso-de-diseno/00-el-proceso-de-diseno)	
-* [Prototipado (sketching)](https://lms.laboratoria.la/cohorts/scl-2020-03-bc-core-scl013/courses/intro-ux/01-el-proceso-de-diseno/00-el-proceso-de-diseno)	
-* [Testeo e Iteración](https://lms.laboratoria.la/cohorts/scl-2020-03-bc-core-scl013/courses/intro-ux/01-el-proceso-de-diseno/00-el-proceso-de-diseno)	
-
-Desarrollo Front-end:	
-
-* [Valores](https://lms.laboratoria.la/cohorts/scl-2020-03-bc-core-scl013/courses/javascript/01-basics/01-values-variables-and-types)	
-* [Tipos](https://lms.laboratoria.la/cohorts/scl-2020-03-bc-core-scl013/courses/javascript/01-basics/01-values-variables-and-types)	
-* [Variables](https://lms.laboratoria.la/cohorts/scl-2020-03-bc-core-scl013/courses/javascript/01-basics/02-variables)	
-* [Control de flujo](https://lms.laboratoria.la/cohorts/scl-2020-03-bc-core-scl013/courses/javascript/02-flow-control/00-opening)	
-* [Tests unitarios](https://lms.laboratoria.la/cohorts/scl-2020-03-bc-core-scl013/courses/javascript/11-testing/00-opening)	
-* [Documentación de NPM](https://docs.npmjs.com/)	
-
-Organización del Trabajo:	
-
-* [Metodologías Ágiles](https://www.youtube.com/watch?v=v3fLx7VHxGM)	
-* [Scrum en menos de 2 minutos](https://www.youtube.com/watch?v=TRcReyRYIMg)	
-* [Scrum en Detalle](https://www.youtube.com/watch?v=nOlwF3HRrAY&t=297s). No	
-  esperamos que hagas todo eso desde este proyecto. Iremos profundizando poco a	
-  poco a lo largo del -_bootcamp_.	
-* [Blog: cómo funciona el algoritmo de Luhn](http://www.quobit.mx/asi-funciona-el-algoritmo-de-luhn-para-generar-numeros-de-tarjetas-de-credito.html).	
 
 ## 7. Checklist	
 
@@ -436,14 +400,12 @@ Esta sección está para ayudarte a llevar un control de lo que vas completando.
   el producto.	
 * [ ] `README.md` explica claramente cómo el producto soluciona los	
   problemas/necesidades de los usuarios.	
-* [ ] Usa VanillaJS.	
-* [ ] No utiliza `this`.	
 * [ ] Implementa `validator.isValid`.	
 * [ ] Implementa `validator.maskify`.	
 * [ ] Pasa linter con configuración provista.	
 * [ ] Pasa pruebas unitarias.	
 * [ ] Pruebas unitarias cubren 70% de _statements_, _functions_ y _lines_, y un	
   mínimo del 50% de _branches_.	
-* [ ] Interfaz permite ingresar un número para ser validado.	
+* [ ] Admite solo numeros
 * [ ] Interfaz muestra el resultado de la validación correctamente.	
 * [ACA ES CON MASKYFY  ] Interfaz debe ocultar con (`#`) todos los dígitos con excepción de los últimos cuatro. 
