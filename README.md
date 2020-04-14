@@ -14,11 +14,14 @@
 
 ***	
 
-<a id="introduccion"> ##  1. INTRODUCCIÓN  :arrow_forward: </a>
+<a id="introduccion"> 1. INTRODUCCIÓN***  :arrow_forward: </a>
+
 
 ***ID-TELOS*** es un una aplicación web, cuyo fin es validar la identidad del usuario que accede a nuestra plataforma, logrando así obtener servicios exclusivos en **los mejores moteles de Chile**, que forman parte de nuestra red. Esto se logra a través de la verificación de una tarjeta de crédito válida, y completando un formulario de datos básico. 
 
-<a id="conociendo">  ## 2. CONOCIENDO ID-TELOS	:heart: </a>
+<a id="conociendo">  2. CONOCIENDO ID-TELOS	:heart: </a>
+
+
 
 ***ID-TELOS*** es una plataforma de verificación, cuyo _objetivo final_ es cambiar el paradigma de la experiencia de usuarios, al momento de visitar un motel.
 
@@ -52,7 +55,9 @@ En caso que el usuario no llegara a cancelar la reserva, se procede a hacer un b
 En caso que el usuario se llegara a retirar del establecimiento sin hacer pago de los servicios y productos solicitados, se procerá al bloqueo definitivo del usuario en nuestra plataforma. También se generará una alarma que será transmitida a moteles fuera de nuestra red de clientes. Además, se procederá a las acciones legales correspondientes. :broken_heart:
 
 
-<a id="creativo"> ## 3. PROCESO CREATIVO :rocket: </a>
+<a id="creativo"> 3. PROCESO CREATIVO :rocket: </a>
+
+
 
 ### :one: La Idea :bulb:
 
@@ -99,7 +104,9 @@ Luego de tener un feedback después de las pruebas de usuario, procedimos a crea
 El resultado de nuestro programa, es el punto cúlmine de todo nuestro proceso de trabajo y aprendizaje para la construcción de este programa. Si bien no se logró completar en un 100%, cada paso fue concientemente internalizado y también implicó de nuestro esfuerzo, trabajo y dedicación. 
 
 
-<a id="diseno"> ## 4. DISEÑO UX :iphone: :ok_hand:</a>
+<a id="diseno">  4. DISEÑO UX :iphone: :ok_hand:</a>
+
+
 
 El proceso de Diseño UX fue una pieza clave para el desarrollo de esta aplicación.
 Nuestro proyecto, al tener un fin que se enfoca netamente a elevar la experiencia de usuario de quienes nos escogen, es vital que tenga un proceso de diseño nutrido y profundo. 
@@ -186,7 +193,7 @@ Este usuario necesita:
 
 
 
-###  Interfase y Prototipado :memo: :computer:
+### Interfase y Prototipado :memo: :computer:
 
 El proceso de prototipado fue fundamental para el desarrollo de nuestra aplicación. 
 En primer lugar nos sirvió para poder llevar a cabo un acercamiento inicial a la visualidad de nuestro proyecto. Con esto, pudimos comenzar a desarrollarlo y a realizar pruebas de usuarios, donde a partir del feedback recibido, tuvimos la posibilidad de cambiar y hacer mejoras a nuestro proyecto. 
@@ -275,7 +282,8 @@ La interfase fue definida en cuanto a las necesidades de nuestros usuarios. Una 
  Evitamos las vueltas sin sentido en el programa y nos enfocamos en hacer una plataforma com un buen flow y un diseño moderno, seductor y eficaz. 
 
 
-<a id="conclusiones"> ## 5. CONCLUSIONES Y REFLEXIONES :heavy_check_mark: :clap: :clap: :clap:</a>
+<a id="conclusiones"> 5. CONCLUSIONES Y REFLEXIONES :heavy_check_mark: :clap: :clap: :clap:</a>
+
 
 Todo el proceso de la creación de esta aplicación fue realmente interesante y desafiante. Somos un equipo que está comenzando 100% desde cero, y cada paso del proceso fue un reto a nivel investigativo, teótico y de aprendizaje, lo cual hizo que tuvieramos que poner el 200% de nosotras. 
 
@@ -298,7 +306,8 @@ Gracias a todas las pruebas de usuarios realizadas, tenemos en consideración al
 Todo esto y más, los espera para nuestra versión 2.0. 
 
 
-<a id="agradecimientos"> ## 6. AGRADECIMIENTOS  :cupid: </a>
+<a id="agradecimientos"> 6. AGRADECIMIENTOS  :cupid: </a>
+
 
 Agradecemos en primer lugar a nuestras familias, quienes fueron un apoyo fundamental en todo este proceso, apoyándonos en nuestras casas, y siendo comprensivos ante nuestra ausencia y trabajo arduo de estos días. 
 
