@@ -160,7 +160,7 @@ Este usuario necesita:
 El proceso de prototipado fue fundamental para el desarrollo de nuestro proyecto. 
 Por un lado nos sirvió para convertir en imagenes, la idea teórica de nuestro proyecto, para mejorarlo, para confirmar las necesidades de usuario, para definir el per fil de usuario. 
 
-[Contribution guidelines for this project](SCL013-CARD-VALIDATION/IDTELOS-DIAGRAMA-DE-FLUJO.jpg)
+![imagen a mostrar](IDTELOS-DIAGRAMA-DE-FLUJO.jpg)
 
 
 HICIMOS UN DAGRAMA DE FLUJI
