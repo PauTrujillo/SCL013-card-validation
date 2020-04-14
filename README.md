@@ -14,7 +14,7 @@
 
 ***	
 
-<a id="introduccion"> 1. INTRODUCCIÓN***  :arrow_forward: </a>
+<a id="introduccion"> 1. INTRODUCCIÓN  :arrow_forward: </a>
 
 
 ***ID-TELOS*** es un una aplicación web, cuyo fin es validar la identidad del usuario que accede a nuestra plataforma, logrando así obtener servicios exclusivos en **los mejores moteles de Chile**, que forman parte de nuestra red. Esto se logra a través de la verificación de una tarjeta de crédito válida, y completando un formulario de datos básico. 
@@ -317,4 +317,4 @@ Por último, pero no menos importante, queremos agradecer a nuestras compañeras
 
 
 
-#####Copyright by Carla Díaz y Paula Trujillo, 2020. 
+Copyright by Carla Díaz y Paula Trujillo, 2020. 
