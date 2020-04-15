@@ -294,6 +294,7 @@ Dicho todo esto, nuestro producto final se ve así:
 La interfaz fue definida en cuanto a las necesidades de nuestros usuarios. Una plataforma sencilla, rapida y discreta, que no revele a primera vista de que se trata, pero que al mismo tiempo, también refleje la esencia de ***ID-TELOS***.
  Evitamos las vueltas sin sentido en el programa y nos enfocamos en hacer una plataforma con un buen flujo y un diseño moderno, seductor y eficaz. 
 
+***	
 
 <a id="conclusiones"> 5. CONCLUSIONES Y REFLEXIONES :heavy_check_mark: :clap: :clap: :clap:</a>
 
@@ -320,6 +321,8 @@ Dentro de las mejoras sugeridas por los usuarios queremos destacar las siguiente
 :red_circle: Que las cancelaciones se hagan directamenta través de nuestra plataforma. 
 
 Todo esto y más, los espera para nuestra versión 2.0. 
+
+***	
 
 
 <a id="agradecimientos"> 6. AGRADECIMIENTOS  :cupid: </a>
